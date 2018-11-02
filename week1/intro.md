@@ -50,3 +50,52 @@ That is what we will be exploring in our final week.
 
 ---
 
+#### Learning Objectives
+
+We hope you will enjoy taking this journey on railway engineering with us during the next 6 weeks. Through the use of tools like the game and the worldmap, we hope you will find this an active, interactive and enjoyable learning experience, in which you'll:
+
+Week 1| Name the main railway network components; understand the function of each and the pantograph/catenary interaction between track and train; and compare the density and history of the rail networks around the world.
+Week 2| Understand the influence that railways exert on their environment and vice versa; apply your knowledge of demand to build and operate a rail network in the game; evaluate the role of a single station using a real-world case; and examine international examples of the value of stations for the user-experience.
+Week 3| Understand the different ways of train control and their effect on timetabling and safety; apply your knowledge of real-time traffic management to handle events in the game; apply the principles of adaptive timetabling to handle a real-world case.
+Week 4| Examine the effects and the internal and external factors of disturbances on railway operations, evaluate cases and propose possible preventions and resolutions.
+Week 5| Evaluate the different methods of dealing with system degradation and the effects of interaction between the components; apply your understanding of monitoring and maintenance in both a real-world case study and in the game this week.
+Week 6| Examine state of the art and future developments of railway systems.
+
+---
+
+#### Grading
+
+In order to pass this course, you need a final grade of 60%.
+
+Grading is built up over the different weeks and is based on five main activities.
+
+Quiz Questions based on text, video, partial example or animation [4%]
+Forum Discussion to compare international situations and share insights [4%]
+Case Study based on a realistic situation with complex challenges [6-10%]
+World Map to add information and imagery of your national railway network [2%]
+Rail Game in which newly gained knowledge can be brought into practice [5%]
+
+Each activity will be graded individually and has a linked percentage which sums up to a total of 100%.
+Below you will find a detailed overview per week and how the activities relate to each other during this course.
+
+![grading](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/aa26987b5abe01fa9460a0bafc6da382/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/grading_railmooc_final.png)
+
+Deadlines:
+
+While we strongly encourage you to complete all the assignments for each week within the week that they have been posted, we are aware that many of our participants have busy schedules. Thus to give you the greatest flexibility possible, the final course deadlines are all: 28 November 2018. 
+
+The only exceptions are:
+
+Week 3 Case Study Assignment
+Submission deadline: 7 November 2018, 12noon UTC
+Peer review deadline: 12 November 2018, 12noon UTC
+Week 5 Case Study Assignment
+Submission deadline: 21 November 2018, 12noon UTC
+Peer review deadline: 26 November 2018, 12noon UTC
+Want to get the most from this course?  A Verified Certificate might help.
+We want you to get the most benefit possible from this course.  First and foremost, that means we want to support you in continuing to make progress in the course.  Did you know that research shows that people are more likely to complete MOOCs if they pay for the Verified Certificate (it’s a human thing – we are more likely to value things we have paid for).  So, if you want to give yourself a mental “nudge” to finish this course, consider upgrading to the verified certificate.
+
+---
+
+#### Interactive World Map
+
