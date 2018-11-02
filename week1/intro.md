@@ -99,3 +99,128 @@ We want you to get the most benefit possible from this course.  First and foremo
 
 #### Interactive World Map
 
+Starting in week 1:
+One great feature of this MOOC is the interactive world map. This is where you can add data and imagery on your local and national railway network and share and compare this with other countries and cities in the world. New data provided will become visible the following Week.
+
+With enrolments from over 100 countries, this world map becomes a unique place where you can get details on trains, tracks, stations, operations and more from all around the world.
+
+Each week the map will appear in one of the discussed topics. The first time you will be asked to register (on the right) with your email address, country and city. If you let your computer remember your details, it should automatically log you in the following week, but please remember your password just in case.
+
+Everyone will be asked to answer several questions regarding their national railway network and, if applicable, their local metro network (later in the course). Input will be shown on the map, after which it can be compared to other countries. Select a country of your choice to learn about this specific network or activate one of the filters to get an overview of the full world.
+
+If your country is too small to be visible on the map, please use the search option on the top right (below the assignment button).
+
+The weekly questions can be found under assignments in the top right menu. If you come across a question which includes uploading an image, please choose one with a maximum size of 1MB. You can either make the photo yourself or pick one from the internet, but if you do use material from someone else we kindly ask you to include the source of recognition.
+
+NB. You get points for interactions on the World map!
+
+If you are not able to submit questions, please delete your browsing history for one day (24 hours).
+
+We know that in traditional classrooms, being asked to contribute to a discussion is often an incentive to continue, so you will get points for every engagement in the World map. After you have submitted, go back to the EdX World map assignment page, scroll to the bottom of the page and click on the button: “Mark as complete” (the image below indicates what you should look for):  
+
+NB. Each week contains multiple questions which require some research. However, this should be a fun, crowdsourcing activity, and should not take more than 20 minutes of research to answer a whole section! You are welcome to put a lot more time an effort in, but it is not expected of you.
+
+We understand that not all countries will have easily accessible data, so if you are really unable to answer a question after browsing - please don't leave the course - rather indicate below "I completed the questions I was able to research".
+
+In addition, crowdsourcing from multiple references may mean that we get slightly different results depending on the year sourced (for instance: different Wikipedia articles say the Netherlands has "397 stations", "404 stations" and "around 400 stations". While the latest data from our railway company confirms it is 404 stations, "around 400" is sufficient. Moreover, our world map will reflect the average response for each country). We do strongly encourage you to reference sources younger than 2010, where possible. 
+
+Trouble Navigating the world map?
+Most of the functions of this world map speak for themselves when you go through the different weeks. But, if you do come across bugs or issues, please use the forum 'World Map Help' below. Click on Show Discussion, and see if someone else has already posted the same comment or question. If they have, please vote for their posts (a button on the right). If not, post your new comment by adding a post or by replying to the main thread.
+
+Enjoy!
+
+
+
+---
+
+#### Railway Strategy Game
+
+Starting in week 2:
+For this course, we have developed a serious game with weekly challenges. This game will guide you through the process of decision-making while building your own rail network, operating it and keeping it maintained.
+
+Welcome to The Land of Anticipation, Timed Tactics And Gruelling Abstruseness - ATTAGA
+
+Attaga is a country with 40 cities and villages and their happiness depends on you.
+
+Cities have to be connected in an ever-changing setting, and you will need to deal with wear, capacity, developments and disturbances. The performance of your railway system over time is based on choices and priorities made and set by you as the player, within an increasingly complex situation.
+
+Communities come in five sizes; 200, 500, 1000, 2500 and 5000 people and can grow over time. Above 500 inhabitants, communities need to be connected to the railway network, whereas villages of 200 won't affect your score in a negative way (but watch out for population growth over time!) 
+
+#### Goals
+The main goal of the game is to have a high percentage of customer satisfaction over time. This is based on the average customer satisfaction measured continuously while playing. The current value is visible at the bottom of the screen, next to the overall percentage, and is influenced by four main factors: 
+
+Customers served: Does your network meets the demand of the different cities?
+Comfort: Can people travel directly or do they have to switch lines?
+Travel time: How close can you get to the fastest possible connection?
+Reliability: How often do lines break down and how fast are they fixed?
+
+##### The Game Menu and Controls
+
+As a user, you can create new connections between cities using local and interstate trains, create high-speed connections between your larger cities and connect the rail network to foreign countries. In hilly areas only mountain trains can be used. The main menu consists of six main tabs, with two important actions within 'cities' and 'tracks'.
+
+Missions: Find your next mission and see what you have accomplished so far. Financial rewards give you possibilities to develop your network faster.
+Events: Get updates on city growth, track status and local weather circumstances. Where did a track break down and which area needs your attention?
+Cities: Oversee all cities and villages on the map with local properties to make correct decisions and set priorities and check if there is a passing station.
+>> Connect: Once you click on a specific city, this button appears. Use it to create a new connection or extend an existing line from a selected city, choosing a type of track, train frequency and a number of switches.
+Tracks: Get a list of all your tracks and check their fail rate. Use monitoring trains to get more detailed information on the status of your tracks.
+>> Maintain: In the tracklist, you have this button. Use it to direct your crews to maintain or repair tracks. Be aware that this costs time and you only have three crews at your disposal.
+Lines: Find all created lines with start and end station. Update the frequency to meet the changing demand, as more people start using your network.
+Control: Gain knowledge on your track status by buying and updating a monitoring train and upgrade your control system for higher train frequency.
+
+You can see the menu on the right of game, as shown in this screenshot:
+
+#### Good to know
+
+- Within the game you generate money by serving customers (tickets) and by accomplishing missions.
+- Red dots in the menu indicate either the occurrence of a new event or the successful mission.
+- Building, maintaining and repairing tracks costs time, resulting in temporarily unavailable crews.
+- Small/large bridges/tunnels, national parks, length, type of train/track and frequency increase costs.
+- Fail rate is an indication of wear and tear; tracks can always break down due to external factors.
+- Repairing after a track breaks down costs three times as much compared to maintaining it in time.
+- Interstate trains can pass local trains at smaller stations using the same line.
+
+#### Colouring of the tracks
+
+White: In service
+Red: Closed
+Orange: In service, but too little capacity
+Grey: Being maintained or repaired
+Green: Being built
+Blue: Selected line to extend
+
+---
+
+#### A short history of rail
+
+Railways are extremely reliable transportation systems that are used worldwide. However the development to its current state has been quite the process. In the following video we shortly explain the most crucial inventions for rail in chronological order. 
+
+https://youtu.be/TF83K9rZVys
+
+---
+
+#### Ask the Professor
+
+Professor Rolf Dollevoet is available for questions and is looking forward to your ideas and statements on railways worldwide. Every second week we will upload a video based on your input from the week before. If you have anything you would like to know more about, please use the forum topic ' Ask the Professor' in the different weeks. On Wednesday October 24, November 7 and November 21, we will choose up to five questions, which Rolf will react to on Friday later that week. If you already have any questions on week 1: Track, Train and Movement, please don't hesitate to share them. We are looking forward to your input and ideas!
+
+Just go to Ask the Professor: Questions Week 1 and click on Show Discussion, and see if someone else has already posted the same comment or question. If they have, please vote for their post (a button on the right). If not, post your new comment by adding a post or by replying to the main thread.
+
+
+---
+
+#### Fun fact or good story?
+
+Each week we have hidden an unusual story related to the main topic discussed, called 'fun fact or good story'.
+
+To introduce this topic, we have summed up a few interesting things on railways that you probably did not know yet:
+
+* The modern age of trains begun in early 1800s, after the initial patent of James Watt for stationary steam engine expired;
+* The railroad connecting United States' East and West coast shortened travel between New York and California from weeks and months to only a few days in 1866;
+* Abraham Lincoln's assassination helped to publicize train travel. The funeral train was front-page news as a luxurious way of travelling;
+* 100 years ago, the United States had 100,000 miles more rail track compared to today. At the time, it was enough to reach the moon from earth;
+* Indian Railways has over 1.6 million employees, making it one of the world's ten largest employers.
+
+The weekly topic will focus on only one fact or story with more details and background information based on that specific week's content.
+
+
+---
+
