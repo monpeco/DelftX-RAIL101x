@@ -61,3 +61,360 @@ which eliminates the gap and the rail discontinuity.
 
 ---
 
+#### A Tangible Railway Network
+
+
+> A familiar component of a railway network is the track.
+> In traditional designs the rails of the track are supported by wooden or concrete beams,
+> called sleepers, which in turn rest on crushed stone.
+> This is called the ballast bed.
+> There are also track structures without ballast.
+> The most typical one is a slab track, where the ballast bed is replaced by a concrete plate or slab.
+> Traditionally rails are joined using metal fishplates and have a small gap between the rails.
+> The gap gives the rails a possibility for expansion during hot weather.
+> The gaps also introduce rail discontinuity, which is one of the main sources of track damage.
+> Therefore, in modern tracks, the rails are continuously welded,
+> which eliminates the gap and the rail discontinuity.
+> The trains use the tracks to carry passengers or freight.
+> Different types of trains are used for different purposes.
+> Still, all the vehicles have the same common features.
+> In a railway vehicle the car body is supported by two bogies.
+> Each bogie has two wheelsets which are rigidly connected to an axle.
+> All these elements are connected to each other by suspensions.
+> Other familiar components of the railway network are stations and yards.
+> Trains carry passengers from station to station where they can transfer to other means of transportation.
+> Yards are arrangements of sidings used to store trains.
+> Along the track, other parts of the railway network are found.
+> Signals are a common system for controlling train movements.
+> In general, they indicate whether a train may enter the section of track beyond the signal.
+> Turnouts, also called switches, are the components of a railway network that guide trains
+> from one track to another.
+> The main parts of a turnout are the switch panel and the crossing panel.
+> In the switching part a pair of movable rails called blades, or points, can be shifted,
+> which provides the switching possibilities.
+> In the crossing panel the two tracks intersect at one level.
+> The rails are disconnected in the intersection point,
+> enabling the wheel of the train to pass the two crossed rails.
+> To bridge this gap, wing rails are mounted on each side of the intersecting portion
+> of the two running rails.
+> Level crossings are intersections where a railway line crosses a road or path at the same level.
+> In order to provide "passive" protection, various types of warning signs can be placed
+> in front of the crossing.
+> The use of automatic warning devices such as flashing lights, warning tones and boom gates
+> are called "active" protection.
+> Railway lines may also cross over or under roads and rivers using bridges, aqueducts or tunnels.
+> In order to reduce the weight of the track to be carried by the bridge,
+> the rails are usually directly fastened to the bridge deck.
+> Guard rails are placed along areas of restricted clearance.
+> These rails keep the wheels of the train in alignment in case of derailment.
+> This way damage to the structure is minimized.
+> These are the main components which form the railway network.
+> The network transports people and freight between cities, harbors and other hubs.
+> Behind the rail network, a network of people and computers keeps everything running,
+> making sure your train arrives on time.
+
+
+
+
+---
+
+#### Real-life examples
+
+Here are a few real-life examples of railway network features that were mentioned in the video.
+
+**Bogies**
+
+![Bogie](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/ffe725d6e5a0034760488bf09083ff6c/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/bogie.jpg)
+
+A train bogie (image by PetrS.)
+
+This is the part of the railway vehicle that provides steering and absorbs the shocks originated 
+in the wheel-rail interface. It consists of wheel sets connected to the bogie frame via vertical, 
+lateral and longitudinal suspensions. Usually, one bogie has two wheel sets and a railway vehicle 
+has 2 bogies.
+
+**Train yard**
+
+![Yard](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/71d87630f2a72ccdeb474d0857d61f43/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/trainyard.jpg)
+
+A trainyard is a place dedicated to maintaining, storing, sorting or loading/unloading of trains, 
+metros or trams. Train yards consist of a series of parallel tracks, wherein rolling stock can be 
+stored off the mainline, without obstructing the flow of traffic. Railway vehicles are moved around 
+the rail yard using a special type of locomotive, called a yard switcher, or in some cases by the 
+'smart' use of gravity controlled systems (see the video below). Vehicles in a train yard can be 
+sorted by numerous categories, such as by railroad company, loaded or unloaded, destination, car 
+type, or whether they need repairs. Train yards are usually built where there is a need to store 
+cars, while they are not being loaded or unloaded, or are waiting to be assembled into trains, 
+like in harbours (as seen in the picture).
+
+
+**Turnout (also called a switch)**
+
+![Switch](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/3a892df5ee6c20af1f6ab005bbe69e21/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/frog_large.jpg)
+
+
+A railway turnout (image by TU Delft)
+
+Turnouts (also called switches, points, or S&C - switches and crossings) are the components of a railway 
+network that guide trains from one track to another. A turnout is comprised of switch and crossing panels, 
+connected by a closure panel. A switch panel is the section of a turnout used to alter the direction of 
+motion of passing trains. This panel consists of two switch rails, two stock rails, and switching machines 
+(or point machines).
+
+In the crossing panel, the two tracks intersect at one level, in which the running rails disconnect at 
+the intersection point to enable the wheel of the train to pass the two crossed rails. This intersecting 
+portion is the so-called nose rail, or crossing nose. Trains approaching from the narrow end of the nose 
+rail (the nose point) towards the running rail performing facing movements; trailing movements follow 
+the opposite path.
+
+
+**Guard rail**
+
+
+![Guard_rail](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/da4d54e8c2dce866a23384fde844ba18/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/guardrail.jpg)
+
+Guard rail (image by TU Delft)
+
+Guard rails are used in railways to guide wheels through possible catch points or points of possible 
+derailment, like on turnouts or on very sharp curves. On bridges, the guard rails are installed to 
+prevent damage to the bridge in case of a derailment. The wheels will be guided in such a way that 
+the train will stay on the bridge.
+
+
+---
+
+
+#### Track Types
+
+
+In the following section, we expand on the different railway tracks that exist around the world. Given the existence of so many differences in tracks, we first introduce you into some basic track types. 
+
+##### Ballasted Track
+
+Almost all existing railways are of the ballasted track type. In this case the track system, consisting of sleepers and rails, are placed on a layer of granular material known as ballast. In the image below, you see a cross-section of a ballasted track.
+
+![This picture shows a cross-section of a ballasted track](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/90acb67f9e285511b1eb160a90266636/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/ballast.jpg)
+
+Ballasted track (image by TU Delft)
+
+
+##### Slab Track
+
+In case of slab track, the ballast material is replaced by a concrete slab that serves as a 
+support for the track. Usually the sleepers are integrated in the concrete slab as well. The 
+rails are mounted with the same type of fasteners as used for ballasted track.
+
+![This picture shows a cross-section of a slab track](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/5b6bad3d1fcab6ddc93211373b838fe5/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/slabtrack.jpg)
+
+Slabtrack (image by TU Delft)
+
+##### Embedded track
+
+These tracks are embedded in the road and are being used by trams and lightrail and for 
+levelcrossings. The unique feature about this kind of track is that it can share the road 
+with other types of traffic, like cars and buses. The track itself can be either ballasted or 
+slabtrack. In case of slabtrack the rails are sometimes embedded in an elastic material that 
+replaces the fasteners. This latter type of embedded track can also be used for mainlines as 
+a low-maintenance track system. 
+
+![This picture shows an embedded track](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/bc1b4b36ebb82bfcf0f72f789224b70d/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/embedded.jpg)
+
+Embedded track (image by TU Delft)
+
+
+##### Magnetic Levitated Trains
+
+Magnetic Levitated (MagLev) trains are based on a completely different principle. As the train 
+is carried by magnets, instead of wheels, the track acts merely as a guideway, hosting the magnets 
+required for train levitation. In module 6, we will discuss MagLev trains more in depth.
+
+
+![This picture shows a Magnetic Levitated track](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/ad823d7e52bf628a9f2551aac738918c/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/maglev.jpg)
+
+MagLev track (image by TU Delft)
+
+
+---
+
+#### Track Properties
+
+
+Until now, we merely focused on the external appearance of tracks. The appearances are governed 
+by a number of rules and guidelines that are discussed on this page. Respectively, the influence 
+of track loads, track gauge, speed limits and clearances are discussed.
+
+
+##### Track Loads
+
+The design of the track structure determines the weight of a train that is allowed on that 
+track. Track loading is expressed in axle loads. Axle load is the total weight of a train 
+divided by the number of axles of that train. For convenience, axle loads are measured in 
+metric tons. Most tracks allow a maximum axle load of 22.5t.  However, on US freight tracks, 
+sometimes even 35t axle load is permitted.
+
+Tonnage is another measure of track loading. Basically, daily tonnage is the summed weight 
+of all trains that pass a certain track on a day. So tonnage measures the intensity of 
+railway traffic.
+
+##### Track Gauge
+
+The rails of a railway track are spaced on a certain distance. Railway vehicles can only 
+drive on tracks with a corresponding width. This width is know as the track gauge. For 
+historical reasons, many different track gauges exist. See the figure below for all 
+different gauges. As shown in this figure, the track gauge is measured between the inner 
+sides of the rails, and exactly 14mm below the top of the rail.
+
+One special track gauge is known as the standard gauge. Originally, this gauge is defined in imperial measures as 4ft and 8½in. In metric units, the standard gauge is 1435mm wide. From the figure below, it is clear that the standard gauge (light blue) is the most widespread track gauge.
+
+![This picture shows a world map that shows in which country which gauge is used]()
+
+*A world map with different track gauges used in each country (image by TU Delft) *
+
+
+---
+
+#### Track Limitations
+
+##### Speed Limits
+
+Every rail track has a speed limit. The speed limit is the maximum velocity that a train is allowed 
+to drive on that track. The speed limit is influenced by a number of parameters.
+•Track condition. The geometry of the track determines passenger comfort. The presence of e.g. switches, overpasses or gradients may influence the passenger comfort negatively. This often has to do with the maintenance status of the track.
+•Signalling. The type of signalling applied on a track is also a factor in determining the speed limit. When train speed increases, it becomes more difficult to read signals in a safe way.
+•Curves. Passing a curve with a velocity higher than allowed results in passenger discomfort and shifting freight or, even worse, in derailment or vehicle overturning. The radius of curves in the track therefore limits the train speed.
+
+The highest commercial speed limit for maglev trains it is set around 430km/h and for normal trains, 
+it is currently set at 320km/h. The world speed record is almost twice as high. On 21 April 2015, 
+the Japanese magnetically-levitated Shinkansen L0 train reached a speed of 603 km/h during trials. 
+The speed record for trains on conventional track is set by a French TGV train at 574.8km/h. 
+
+Here are two links to YouTube video's showing the speed records.
+•Shinkansen: https://www.youtube.com/watch?v=j_sHahhDWU4
+•TGV: https://www.youtube.com/watch?v=vWbmRA5JIi0 (you can see the speed in the upper left corner, next to "Vitesse")
+
+Clearances
+
+It's self-evident for railways that the train and the track have to fit together. We already touched 
+on this topic by discussing the track gauge, where the distance between both rails has to match the 
+distance between the wheels. In practice, many more installations reside besides the tracks, for 
+instance platforms on stations, signals aside the track or tunnels. In contrary to the wheel and the 
+rails, the train should not touch these devices. Therefore clearances are designed.
+
+![Clearances](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/a7fb98d6a9c2ac8e03419b788a55d3c4/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/Clearances.png)
+
+Clearances of a train on straight and curved track (Source: TU Delft)
+
+These consist of three parts, namely the structure gauge (also known as the normal clearance), the 
+vehicle gauge and the loading gauge. The structure gauge describes the area in which no installations 
+may be installed, while the vehicle gauge describes the maximum sizes for a vehicle. The vehicle gauge 
+will always be smaller than the structure gauge to allow for movements of the train such as hunting 
+(this will be discussed in week 1.5). Most often the loading gauge is defined slightly smaller than 
+the vehicle gauge for safety reasons. The clearances can differ depending on whether a track is 
+straight or curved. Besides that, clearances can differ per country of region.
+
+
+---
+
+#### Track Components
+
+
+In this unit, we have a deeper look at the track structure. Below, a cross-section image of a typical 
+railway track is depicted. By hovering over the different elements, an explanation is given about that 
+element. By clicking on the grey bars and i-buttons, more in-depth information can be found. Please 
+explore the image below to learn about the many components that make up a railway track.
+
+Rail Pads
+
+When using concrete sleepers rail pads are used underneath the rails. These small 10x10cm rubber tiles 
+are rather important, since they protect the underlying sleeper creating a smooth transition between 
+steel and concrete and processing the immense forces between track and train. Without rail pads all 
+concrete sleepers would break when just a single train passes. Below you can see several pads found 
+when maintaining tracks and in some cases they have almost vanished, showing the pressure on the rail 
+and the essential role they have.
+
+
+
+---
+
+#### Scenic train tracks
+
+1. Tanggula Pass (Tibet)
+
+
+
+With a maximum altitude of 5070 meters above sea level, this train track in Tibet is the highest train track in the 
+world. It also has an average altitude of 4500 meter above sea level and it lays at 4000 meter above sea level for at 
+least 960 kilometers long. Because of the high altitude a few constructive difficulties appear like the lack of oxygen 
+and extreme temperatures. Passengers in the trains are accommodated with extra oxygen during certain parts of the journey.
+
+
+
+
+
+2. Tren a las Nubes (Argentina)
+
+This picture shows the Tren a Las Nubes
+
+
+Literally translated it says, train to the clouds, and its name is somewhat logical since it will reach an elevation of 
+4220 meters above sea level, which is the height at which the Polvorilla viaduct is located. This train track also 
+contains two zigzags to climb up the slope of the mountain by driving back and forth. In addition this train track 
+contains 29 bridges, 21 tunnels, thirteen viaducts and two spirals. The start point of this train is at Salta station, 
+the whole track takes 15 hours to drive and is 434 kilometer long.
+
+
+
+3. Trans-Siberian Railway (Russia)
+
+This picture shows the Trans-Siberian Railway
+
+Spanning from Moscow to Vladivostok the Trans-Siberian Railway (TSR) is one of the largest railway networks. It was built 
+between 1891 and 1916 and has a length of about 9290 kilometers. It covers eight time zones and is the longest railway 
+line in the world.
+
+ 
+
+
+4. The Landwasser Viaduct (Switzerland)
+
+This picture shows the Landwasser Viaduct
+
+Switzerland has large areas of land that are mountainous. When building railways through this, the railway engineers had to 
+be extremely innovative, imaginative and courageous to build a complex and efficient mountain railway system. One of the most 
+impressive feats was the building of the Landwasser Viaduct which carries a (narrow gauge) railway track. When approaching 
+the viaduct the train travels through the Landwasser tunnel. The engineers had to build the viaduct starting at the end of 
+the tunnel. The construction of the viaduct is impressive for two reasons, all materials (limestone!) had to be transported 
+to this remote site before construction could begin and the height of the arches meant that traditional building techniques 
+could not be used and completely new techniques had to be developed.
+
+
+5. Georgetown Loop Railroad (USA)
+
+This picture shows a loop in the Georgetown Railroad
+
+The Georgetown Loop Railroad was one of Colorado's first visitor attractions. Completed in 1884, this spectacular stretch 
+of three-foot narrow gauge railroad was considered an engineering marvel for its time. It includes three hairpin turns, four 
+bridges and a 30-degree horseshoe curve from Georgetown to Silver Plume. The Colorado & Southern Railway operated the line 
+for passengers and freight from 1899 to 1938, when it was abandoned.
+
+In 1973, the Colorado Historical Society began restoring the railroad as part of its 978-acre Georgetown Loop Historic Mining 
+& Railroad Park. A replica of the High Bridge was completed in 1984, in time to celebrate the 100th anniversary of its 
+original construction.
+
+
+6. The Death Railway (Thailand)
+
+This picture shows the bridge over the river Kwai
+
+The Death Railway (also known as the Burma Railway, Burma-Siam Railway, Thailand-Burma Railway and similar names), was a 415
+kilometres long railway built by the Empire of Japan in 1943, to support its forces in the Burma campaign of World War II. 
+The line was closed in 1947, but the section between Nong Pla Duk and Nam Tok was reopened ten years later. The name of the 
+railway comes from the deaths that happened during the construction. The estimated total number of civilian labourers and 
+prisoners of war who died during construction varies considerably, but the Australian Government figures suggest that of the 
+330,000 people that worked on the line about 106,000 people died.
+
+
+---
+
+
+
