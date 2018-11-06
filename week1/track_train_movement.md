@@ -418,3 +418,57 @@ prisoners of war who died during construction varies considerably, but the Austr
 
 
 
+#### Heavy Rail
+
+
+Why are you able to see straight through the modern multiple units from front to back, while in the older ones you can't? What enables this?
+
+Heavy rail is a term for regular trains and infrastructure. In this MOOC, we will use this term to introduce passenger transport trains as well as heterogeneous transport. The structure and design of passenger trains has changed quite a lot over the years. One very recognisable one is that in the past a train consisted of a clearly recognisable locomotive and several cars (or coaches), which were connected by transit locks (vestibuled). Modern trains feel more open, and more often, you can actually see through the train from end-to-end. This makes it much more spacious and it comes with a feeling of safety, but an important additional advantage is that this limits the damage to the track. 
+
+To make this possible, the wheel-sets had to be repositioned. At first, each car/wagon had a bogie on both sides, making them independent in use, but - when connected - the result is two bogies very close to each other. When making a turn or when passing a switch, this created a notable difference in where the end of each car would be. This affected, not only the relative position of both cars, but also the space needed to make this happen. A much larger additional space resulted in the rubber tubes (transit locks) acting as a buffer between different cars. In the new situation, a shared bogie connects two cars, enabling them to be placed much closer together. Individual cars are usually slightly shortened by using this combined solution, but the full train still uses fewer bogies compared to the old situation. As an additional advantage, this saves weight and limits maintenance.
+
+
+##### Heterogeneous train traffic
+
+If local and interstate trains are combined on the same infrastructure (sometimes even with freight and/or high speed trains), we call this heterogenous train traffic. Multiple types of trains using the same track saves space and development costs, but also brings additional challenges. Forces on the track are different for each type, creating more wear and tear to the material (more on this in week 5). In addition, combining local trains, interstate trains and even freight trains, complicates timetabling. Apart from the operational challenges and increased track damage, it creates wide diversity on the track.
+
+
+In the Netherlands, we have a dense network in which interstate trains travel between the larger cities and local trains stop at each station using the same tracks. On average, every ten minutes, a train runs by in each direction, leaving very limited space to fit in freight transport and high speed. This is why important international connections have their own infrastructure, which creates independent timetabling, as well as a track, which is specially designed for the specific type of train. Not only is this much faster and minimises damage, but it also is much more reliable.
+
+Apart from external factors, most issues within the railway network originate from switches. With a separate track for each train (type), the need for switches is much lower, thus giving a lower chance of problems.
+
+The most reliable way to run trains is either in separate lines (like metro) or in circles. People might need to switch trains more often, but when the reliability increases, many people won't mind. Using only one type of train on specific tracks enables a much denser schedule and less damage to the infrastructure. In case something happens on one of the lines, it will not interfere with the scheduled trains on other lines. We will take a closer look at this unbundling of different trains for different purposes/distances in week 2 and 3.
+
+##### Multiple units
+
+Especially on rail networks used a lot for commuter traffic, traditional trains with locomotive and towed cars are considered not flexible enough. On these tracks, most of the time, Multiple Unit (MU) passenger trains are utilised. MU's consist of two or more passenger cars, and have a driver cabin at both ends. MU's don't have a dedicated locomotive, but have one or multiple motorized bogies  which power the train. This can be both from diesel or electric engines.
+
+The big advantage of MU's is that during peak hours, multiple MU's can be combined into a single train driven by a single train driver at the head (front) of the train. The single driver controls the engines and breaks of all the MU's combined. There are a few cases in which MU's, once coupled, even allow passengers to walk from one MU to the other.
+
+
+---
+
+#### Train components
+
+Why does a freight train often get priority over passenger transport if using the same network?
+
+Many have experienced it at least once in their lives. While waiting for a railway crossing, a freight train passes by. This can take quite long, even minutes, since you can regularly count over a hundred cars passing by, and often at a limited speed. Not only can freight trains be multiple kilometers (or miles) long, they also carry all kinds of different goods, demanding different kinds of car type designs, which can create rather unexpected combinations.
+
+
+Each type of car design has its own characteristics and features. Worldwide, many more types and spin-off designs of freight cars exists on the railway tracks, often in bright recognisable colours. Some of them even devoted to very special tasks, like the Schnabel cars, which are specially designed to carry really heavy or oversized loads, like electric transformers. The car consists of two beams, in which the load is suspended, supported on the track with a lot of wheels or bogies. This way, the load is part of the structure of the car. Using this many wheels allows for the heavy weight to be transported, and suspending the load allows the car to use normal track curves.
+
+To move hundreds of freight cars, locomotives often are much heavier and stronger compared to passenger trains. The strongest locomotives currently available have over 19000 horsepower (comparable to approximately 19 Bugatti Veyrons!). Aside from normal locomotives for freight transport, special locomotives are often used for the shunting process. Since during shunting, speeds are not as high, but frequent acceleration and deceleration are required, locomotives have been specially designed to handle these kinds of jobs. In some cases, shunting locomotives can even work by remote control, so no extra train driver is needed, while wagons are being pushed rather than pulled.
+
+When assembling a freight train, the most important things to consider are the gross weight of the freight vehicles, the terrain the train has to cover, the speed it has to travel by and the availability of overhead power supply. Both the weight of the train and the maximum incline determine the required traction for the total train. The required brake power is determined based on the weight and maximum decline. Based on these requirements, either one or multiple locomotives can be selected to be used in a train. In some cases, multiple locomotives are spaced out over the full length of the train for a better distribution of power. In the video below, a nice example is seen of a long freight train climbing a relatively steep incline in California, using 3 locomotives.
+
+
+https://youtu.be/yZCYhP1D4O4
+
+So freight trains can be really long and sometimes use the regular railway network, which makes them interfere with passenger transport. A situation can occur when you have an important meeting or time is running out to catch your connecting train at the next station and you suddenly stop. Minutes go by when nothing happens and then suddenly a freight train passes by. For the people sitting in the train, this incident may seem odd. Why not just let your train pass first?
+
+The length of the freight train actually causes many more problems when it had to wait for you. It covers such a large part of the track that it often blocks multiple switches, railway crossings or even one or more bridges at the same time, which cannot open at that point. Also it might just be leaving a tunnel or entering one, both creating a situation where you really do not want to stop as a train driver. There are multiple examples, where freight trains get stuck in tunnels, since they do not have the power to pull all carriages out after standing still, because of an elevation on either side. Other reasons for this are the extremely long break-distance, the required power to get everything moving again and the time that it takes before the whole combination is back up to speed. For your train, it is much easier to stop for a moment, making sure the freight doesn't interfere with the full timetabling schedule, creating delays for possibly dozens of passenger trains, which could just as well have been yours (or will be) the next time.
+
+While this list of reasons might not help for why you missed the start of your meeting, it most likely helped many others to get in time to theirs.
+
+
+---
