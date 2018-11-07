@@ -472,3 +472,69 @@ While this list of reasons might not help for why you missed the start of your m
 
 
 ---
+
+#### Light Rail
+
+What is the effect of a much lower entrance level on the design of modern trams?
+
+To enable fast short connections within cities, light rail is often used. Light vehicles can accelerate fast and stop quite easy (rapid transit). Subway and tram are examples of this, as well as monorail, which also can be seen as a train type on itself. Light rail vehicles form an intermediate group, driving tram-like vehicles on higher speeds and on a dedicated infrastructure.
+
+
+If comparing the older and more modern designed tram, the most profound change is the lower entrance level for passengers. Before this, trams always had a little staircase (few steps) to get to the seating area, which was situated above all heavy equipment like transformers, engines, compressors and generators. To improve comfort, this all has been moved to the roof in the new designs. This way people can enter the vehicle on street level.
+
+
+There are disadvantages: situating the mass higher will create an unbalanced vehicle. Especially within curves (and therewith switches), left to right movement increases a lot which damages the track. Knowing that trams make rather sharp turns emphasises this even more. This almost 'nervous behaviour' makes the flange scrape the rail, causing a large amount of wear with each wheel passing.
+
+More details on the contact and interaction between rail and wheel will be discussed later this week. In the section on wheel/rail interface, we will also look at the problems which occur when putting light rail vehicles on heavy rail infrastructure.
+
+
+
+##### Monorail 
+
+Monorail vehicles can also be categorised under light rail, although Monorail almost is a transport type on its own. Monorails use only one instead of two rails, and can roll or (as most people will recognize it) use magnets and levitate over it. In week 6, we will take a close look at how this and other special systems work and where they can be found in the world.
+
+In practice, there are no clear boundaries or numbers that distinguish heavy rail from light rail, when looking at axle loads. The categories are even differently interpreted in different locations around the world. What is most important is that most suitable vehicle types and design for specific purposes, which mainly depends on number of stops. In addition to the weight, important factors and properties are acceleration, speed, the minimum radius of curves, but for example also the number of doors. A higher frequency of stops is often related to the limited time on the platform, which then directly influences the number of doors to facilitate a fast process of exiting and entering the train.
+
+
+
+---
+
+#### High Speed Trains
+
+Why does China invest in high-speed trains rather than in domestic airlines connections?
+
+High speed trains are designed for operational speeds of over 200 km/h. Some are able to reach speeds up to around 400 km/h during commercial operation, and a world record has been set at over 550 km/h during test-phase. In order to achieve these kinds of speeds, both a special infrastructure and special rolling stock are needed. If an electrified high-speed train actually reaches a speed that high, the catenary system (more details in the next section) will need significant repairs after each train that passes. The forces on the pantograph will become higher than it can handle, and it might even break down during the first test. Catenary systems (as they are designed in 2017) are usually able to handle speeds op to 350-400 km/h, when looking at a life-expectancy longer than a year.
+
+Looking at high speed infrastructure compared to regular systems, differences can be found, for example, in the allowable radiuses in track curves. Due to higher speeds, larger radiuses are needed in order to keep the ride comfortable. This results in high speed railways being less able to follow terrain, thus having more bridges and tunnels, increasing costs and making it more difficult to implement within dense areas.
+
+There are also differences in the tolerances for the infrastructure itself, both for the rail and the catenary. Even on a straight track, the rail is never 100% straight. There will always be some margin of error in this track alignment, introduced in building the track, of which the tolerated error is specified. For high speed tracks though, the tolerated error in the track alignment is much smaller. This is because, using the same margins as for normal tracks would increase the risk of derailment in high speed trains. Constructing a track with these smaller margins results in higher construction costs for the track itself, often requiring better foundations, etc.
+
+In railway vehicles, there are also some clear differences between normal and high speed railways. The clearest difference can be found in the aerodynamics. At higher speeds, air resistance goes up quadratically. Doubling the speed would make the power consumption to overcome the air resistance go up by a factor of 8! Reducing air resistance thus becomes extremely important for achieving high speeds. This can be seen in the typical long-nose that most high speed trains have, but also in the integration of the pantograph on the train. Other details you will often find are, for example, putting a cover on the coupling mechanism at the front of the train, minimizing the gap between coaches, and installing side skirts underneath the train. Aside from the aerodynamics, differences can be found in many other aspects of the vehicle as well. You can think about different bogies, power distribution systems, closed toilet circuits (like in airplanes), windows that cannot be opened, and many more.
+
+Over long distances, it might be logical to expect air traffic as main way of transportation, but as mentioned at the start of this section, China chose instead to invest in fast train connections between main cities. The large amount of people, with an increasing demand every year, is the main reason for this decision. Trains can easily carry a thousand passengers at once, whereas planes are often limited to a few hundred and even the largest passenger aircraft will not get to that number. Trains also can run at a much higher frequency and railway stations can be placed much closer to the desired location, often even within the heart of a city or business district. An additional advantage is the limited time to board, since for domestic train travel customs and security delays are limited to a minimum. Apart from all this, trains are reliable, safe and fast, especially in modern designs of both infrastructure and rolling stock and trains are better for the environment as they run on clean energy.
+
+We will discuss special high speed trains further in Week 6.
+
+
+
+---
+
+#### Maintenance Vehicles
+
+Why are road vehicles used to maintain the railway track (using small attached steel wheels) rather than an actual train?
+
+Maintenance and inspection vehicles are an unusual appearance on the track. These special vehicles are designed to repair and/or replace (parts of) the track. They often have a dedicated purpose, such as tamping the ballast, grinding the rail surface or doing a single dedicated type of measurement. Some can even replace the sleepers and ballast bed underneath them, while driving slowly over the track, operating like a complete factory on wheels, like seen in this video (source: Strukton Rail). 
+
+
+Because it can be very expensive to close down a part of the track, while it is being maintained, it is common that these trains run at night to minimise the impact on the regular schedule.
+
+In some cases when maintenance or measurements have to be arranged quickly, getting a train to the right location might not always be the best solution. Road vehicles often have easier access by not being restricted by train paths. These 'hybrid vehicles' are equipped with an extra set of wheels, which they can deploy in order to be able to run on the rail. Since the capacity is much more limited, compared to full maintenance trains, this solution is used mostly for high priority repairs on specific parts of the track, but with many small disturbances happening each day, hybrid vehicles can be seen rather often. Railway crossings are used to enter or leave the tracks.
+
+
+---
+
+#### Fun fact or good story?
+
+In the early part of the twentieth century, a working 22-tonne monorail prototype was developed by Louis Brennan. In 1910, the balancing train was presented to the public carrying 50 passengers, one of which Winston Churchill, at a test speed of 20 mph during the Japan-British exhibition in London.
+
+
