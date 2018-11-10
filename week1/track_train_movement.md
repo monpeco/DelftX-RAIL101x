@@ -668,3 +668,59 @@ The less a wheel or tire deforms, the lower the rolling resistance will be. As t
 As an example, imagine a load of 25 metric tonnes. A lorry will need quite a large engine of around 500 horsepower or 367 kW to transport this. Whereas, a train with 5000 kW of power will easily move 1800 metric tonnes. The power needed to transport a metric tonne with a train is almost 5 times lower! 
 
 The reason why trains initially move so slowly has to do with rolling resistance, but this is directly related to the enormous weight of both the train and load. This combination also influences the braking distance, which is significantly longer for trains than for other vehicles.
+
+
+---
+
+#### Weight, Speed and Curves
+
+What does a guitar string have to do with a rails?
+How is corrugated cardboard similar to a light rail track?
+What is the similarity between a cone and a train wheel?
+
+To explain some of the basics related to the complex forces that are at play in railways, we will use familiar shapes and items. Weight and speed are essential elements when defining a type of vehicle and its properties. 
+
+##### Curves
+
+Tram and metro networks follow the city streets, which requires rather sharp turns within an existing urban grid. To be able to make these curves both their driving speed and axle load are lower than those of regular trains and the carriages are shorter. Canting tracks (think of a race curve) are used to limit the angle of attack of a train running through a curve and to make sure that trains don't derail. For trams, this is rather unusual because their tracks intervene continuously with our road network, so they have to stay levelled. This also is the reason why it is impossible to add a switch within a canting track, since trains use two tracks which have to be on one level as well.
+
+Why do you sometimes experience a ‘swinging motion’ when travelling on a train? Even on perfectly straight parts of the track? To understand where this ‘hunting’ comes from, we need to understand how a train goes through a curve first.
+
+
+In modern bogies, wheelset are mounted with suspension. This suspension dampens the ‘hunting’ behaviour of the train avoiding an unpleasant journey.
+
+##### 'Steady wave'
+
+For comfortable train travel and to limit wear we prefer a straight track. To maintain this over time is highly expensive, which is why the rail slowly transforms in a wavy surface (mainly at light rail). The visualisation below shows an extreme enlargement of this effect, looking a little like corrugated cardboard. When a train passes by with slow speed, it will follow the wavy structure, but when the same train passes driving much faster it will only make contact with the top of the waves. This results in extreme wear worsening the track status.
+
+
+
+##### 'Moving wave'
+
+The track that you see at the station continues for thousands of kilometers, sometimes crossing multiple countries. All the separate track sections are welded together to create one long set of rails. If a train passes over it, the rails vibrate due to the load. This can be compared to a guitar string, which, when in motion, gives a continuous vibration that results in a wave traveling along the string. In rails, this vibration can be much stronger than the train passing over it, making the train come loose from the track. When heavy rail infrastructure (thick rail) is used for light rail vehicles, this worsens due to the relatively light train. It can be compared to a fly trying to walk over the earlier mentioned guitar string. While rails do not seem to vibrate that easily, the video below shows how much a guitar string vibrates than you might have expected. Focus on how the thicker strings move more extreme than the thinner ones, which is comparable to thick versus thin rails.
+
+
+After getting more detailed insights on track, train and their interaction, are you able to answer the following question?
+
+When comparing light and heavy rail, on which would you expect more wear and in which more cracks?
+
+
+---
+
+#### Switches
+
+Switches and crossings are essential parts of the railway network. More switches means more flexibility of the network, but at the same time more switches also increases the change of one breaking down and disturbance of the railway network. Issues related to weight and speed in curves, have even more effect in switches. 
+
+In the short video below Network Rail explains very clearly how a switch works, how the train is guided to either one direction or the other and the large impact on the crossing nose. We highlighted 50 seconds of animated material, but feel free to watch the full video on YouTube.
+
+
+A standard turn­out, as shown in Figure A, allows movement of traffic in a straight direction on the through track or in a divergent direction. A symmetrical turnout (Figure B) is a special case of a turnout with 2 routes diverging symmetrically from the common route. A diamond crossing with a sin­gle slip is a crossing which only has one connection between intersecting routes (Figure D) and because of this has 3 routing possibilities. A diamond crossing with double slips consists of two diagonally intersecting tracks which are connected by two curves (Figure E and the middle image below). This means that there are 4 routing possibili­ties. Connection between two parallel tracks con­sisting of two single turnouts (shown the left image below) is commonly used by trains to change a track when the other one is closed for e.g. repair. A crossover with two turnouts and two double slips with central diamond crossing shown in Figure H and the right image below, is typically used at train stations and train yards.
+
+Turnouts differ in sizes. Some commonly used ones are shown below. The number after '1:' stands for the angle of intersection. The length and the maximum allowable speed to pass the turnout in the divergent direction are given below as well. 
+
+1:9 - 32 meter - 40km/h
+1:12 - 38 meter - 60 km/h
+1:15 - 47 meter - 80 km/h
+1:34 - 99 meter - 140 km/h
+
+To travel fast through a switch, the length of the switch should be increased and with increase of the length the construction costs and maintenance increase as well. A dilemma which will come back multiple times during this MOOC and in every situation, that has to be balanced to meet the demands of the different stakeholders.
