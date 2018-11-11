@@ -51,3 +51,47 @@ If passengers have to spend time at a station, for instance between trains, then
 Above, we spoke about how safety and reliability need to be up to a certain standard, depending on the country. Below, you are welcome to submit some of your country's requirements. This can include special requirements to aid those with disabilities. This is not a graded discussion.
 
 
+---
+
+#### Passenger Comfort
+
+There are multiple ways to improve the door-to-door experience. Especially over the past decades, rail transport has become more and more about comfort, both in the train and the station. With more technology in our daily life, people also expect public transport to be better facilitated.
+
+A comfortable journey can be based on many different factors, but essential factors relate to waiting, finding your way, and comfort during the ride, by means of sufficient and decent seating and a steady train ride.
+
+
+##### Train travel - Hunting
+In week 1, we looked at the swinging motion (hunting). This is created by the cone-shaped wheels, which enable a train to make a turn, but also have an effect on the comfort of passengers. You might have experienced this 'swinging motion’ when travelling on a train, even on perfectly straight parts of the track. 
+
+The frequency of the ‘hunting’ motion increases with higher speeds. Furthermore, you can reduce the frequency by a decrease in the slope of the conicity. As explained in week 1, if the wheels were flat, there would not be any ‘hunting’. The slope of the conicity is, therefore, a compromise between reducing ‘hunting’ and being able to run through curves.
+
+In modern bogies, wheelsets are mounted with suspension. This suspension dampens the ‘hunting’ behaviour of the train, thus avoiding an unpleasant journey. It also makes it possible to run very fast without passengers experiencing the swinging motion at all, as can be seen in the video above.
+
+##### Train travel - What happened to the ‘Clickety-Clack’?
+In the early days of railway transport, the track was placed and simply bolted together tightly from point A to point B. For short distances, this worked fine, but with longer distances, a problem occurred: when the temperature rose, the track would suddenly form an S curve, where it was straight before. This phenomenon is called ‘buckling’. 
+
+The track buckles because a rise in temperature causes the tracks' steel to expand. Small expansions are not a problem, but when these become larger, the ballast and sleepers cannot hold the track in place anymore. 
+
+
+---
+
+#### Passenger Comfort 2
+
+
+##### New train designs and technology
+Trains travelling over long (international) distances have been rather luxurious from the very beginning, whereas trains for daily use were designed to just move people, regardless of comfort. Metro trains are a good example of this since most people travel with them for less than 15 minutes. However, in commuter trains, facilities have increased rapidly over the past years to include more comfortable seating, wifi, power outlets, room for laptops and onboard catering.
+
+In addition, travel information is much more detailed and is brought to customers in real-time. With the ubiquity of mobile devices with the internet nowadays, apps play an important role in this. Especially when your route changes or when you miss your regular connections, phones bring the next best solution in seconds. New interstate trains within the Netherlands even are equipped with GPS-signals, so travellers know exactly where each train is. Waiting becomes much less frustrating when you know what the problem is and how long it will take before the next train arrives.
+
+###### Station
+Another prominent way to increase comfort is to add value to the railway station itself, which we will look at in more detail in the next section. To introduce this topic we can already define three different levels in which the station and the surrounding area can enhance the travellers' experience.
+
+##### Acceleration
+For most commuters, the station is a transition point, so their station experience is most improved if their time spent there is reduced. This is possible by increasing the average speed of the train and reducing waiting times at the station. However, while passengers want shorter waiting times at the stations, especially the commuter, if a train is delayed, this can result in passengers missing the next transfer, so a careful balance must be found. More information about this topic and timetabling will be in week 3 of this course.
+Enhancement
+Thus, if you must wait, another way to make time at the station more pleasant is to enhance the time spent there. This can be achieved by transforming the enforced idleness of waiting into beneficial time, by making more facilities available, such as shops and cafes, but this can also be a library, exhibition or music.
+Concentration
+In addition, if your station is conveniently located, then travellers don't need to rely on (and further wait for) other modes of transport to get from door-to-door. Thus concentrating facilities, such as housing, companies and leisure centres, closer to the station in greater densities enhance the station's centrality. Other transport modes for getting to or leaving the railway station will then be eliminated, which will remove much of the hustle.
+
+---
+
