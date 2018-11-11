@@ -724,3 +724,64 @@ Turnouts differ in sizes. Some commonly used ones are shown below. The number af
 1:34 - 99 meter - 140 km/h
 
 To travel fast through a switch, the length of the switch should be increased and with increase of the length the construction costs and maintenance increase as well. A dilemma which will come back multiple times during this MOOC and in every situation, that has to be balanced to meet the demands of the different stakeholders.
+
+
+---
+
+#### Rail Lab [2]
+
+Within the Rail Lab of Delft University of Technology we have a Wheel/rail test rig that can simulate speeds up to 240km/h. Where the scale is 1:7, all forces are balanced to this scale as well. Both track and wheels are made from actual used train wheels and rails. One week on the test track is comparable to one year on the railway network, so it is a great way to speed up new possible innovations and test results.
+
+In week 5 of this MOOC we will show you the test rig in action.
+
+More information on our Wheel/rail test rig:
+>> http://railahead.tudelft.nl/testing-the-rails/
+>> http://railahead.tudelft.nl/tu-opstelling-in-impact/ (Dutch)
+
+---
+
+#### Academic Papers
+
+In this week, we have tried to covered Track, Train and Movement to appeal to a broad audience. If you are interested in reading more on the complexities of railway engineering, you are welcome to sign up for our upcoming professional education courses.
+
+But, as promised, here are a few in-depth articles on the subject.
+
+Open Access:
+
+Jamshidi et al. 2017. A Big Data Analysis Approach for Rail Failure Risk Assessment
+Moldova et al. 2014. Automatic detection of squats in the railway infrastructures
+Journal Articles:
+
+Click on the linked journal articles (below) to view their abstracts. These papers are accessible only to the journal subscribers or for a fee, but will be available for free to participants of our Professional Education Courses.
+
+Oregon et al. 2016. Obtaining railpad properties via dynamic mechanical analysis
+Oregon et al. 2015. Experimental investigation into the condition of insulated rail joints by impact excitation
+Zhao and Li. 2011. The solution of frictional wheel-rail rolling contact with a 3D transient finite element model: Validation and error analysis
+Dollevoet et al. 2010. A method for the prediction of head checking initiation location and orientation under operational loading conditions
+Li et al. 2009. Rolling-sliding laboratory tests of friction modifiers in leaf contaminated wheel-rail contacts
+Li et al. 2008. An investigation into the causes of squats - Correlation analysis and numerical modeling
+
+---
+
+#### Introduction
+
+This is the first week that you are asked to interact with our world map. This is a great place to learn from each other and thus learn about other countries. 
+
+If you need assistance with using the WorldMap, you can either go to our manual or ask on the forum.
+
+Your challenge this week is to give more information about the size, structure and history of the railway network in your country or a specific country of your choosing. This includes some basic research on the key figures for your country's network.
+
+Step 1: create a new account
+
+Step 2: go to the Assignment Tab to find Week 1's assignments
+
+Step 3: complete the Week 1 assignments with some short research
+
+A note about this assignment:
+NB. This is a graded weekly assignment, and each week contains multiple questions which require some research. However, this should be a fun, crowdsourcing activity, and should not take more than 20 minutes of research to answer a whole section! You are welcome to put a lot more time an effort in, but it is not expected of you.
+
+ We understand that not all countries will have easily accessible data, so if you are really unable to answer a question after browsing - please don't leave the course. Just click "Completed" below, if you have answered all the questions to the best of your ability in the time frame.
+
+In addition, crowdsourcing from multiple references may mean that we get slightly different results depending on the year sourced (for instance: different Wikipedia articles say the Netherlands has "397 stations", "404 stations" and "around 400 stations". While the latest data from our railway company confirms it is 404 station, "around 400" is sufficient. Moreover, our world map will reflect the average response for each country). We do strongly encourage you to reference sources younger than 2010, where possible. 
+
+
