@@ -205,3 +205,19 @@ An example of an unusual service in the accommodation domain is the 'Station Lib
 Not only travellers are attracted by these facilities and services, the accommodation domain also invites all types of visitors.
 
 ---
+
+#### Wayfinding
+
+Getting lost in an unknown environment can be a stressful experience. Organisations must facilitate wayfinding for their customers in order to prevent them from having negative feelings. If they get lost in a station, the "must" traveller might be late for her appointment, while the "lust" traveller might spend too much time searching for the right way, instead of relaxing.
+
+There are multiple ways to help travellers navigate through a station:
+
+1. Signage: You can use clarifying signs, which show the different facilities and directions. These signs need to be understandable for all types of travellers, native, foreign and differently-abled.
+
+2. Station Layout: The station layout has a huge influence on the wayfinding, even though it is less obvious. The complexity of a building needs to be low enough, so the travellers can absorb all the information around them, and give them a clear overview of the environment. Main paths (often delineated through floor colouring or lighting) and the visibility of orientation spots (for example the entrance, escalators) within the station can help the traveller navigate the overview (Werner & Long, 2003). Aside from this, differentiation is important, to distinguish the spaces from each other. By working with the four different domains, it will be easier for the traveller to figure out where he/she is.
+
+The Hague Central Station
+The following example shows The Hague Central Station and its different station domains including corresponding signs. The station has four floors, but this example will only show two of them.
+
+The Hague Central station is an easy-to-read building, where multiple public transportation networks converge. The station building includes all modes of transportation: train, tram and bus. Inside, the trams ride along an elevated track above the train tracks. Retail and hospitality areas can be taken in at a glance. Nowadays, about 190 000 travellers and passers-by make use of The Hague Central Station, but this renovated building was built to host double this amount, in order to fulfil the needs for the coming decade. To facilitate this huge number of travellers, they designed a natural and flexible organisation of traffic flows. Multiple routes are possible, in order to let the traveller create their own route in an easy and clear way.
+
