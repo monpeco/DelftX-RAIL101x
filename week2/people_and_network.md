@@ -95,3 +95,113 @@ In addition, if your station is conveniently located, then travellers don't need
 
 ---
 
+#### Station Design 1
+
+This chapter will give you more information about the different aspects of a train station. Not only is a station a junction in a train-track network, it has an influence on the city and urban structure as well. Besides that, it will have an impact on the traveller's experience. 
+
+Arriving passengers get their first impression of a city from its station. Municipalities do realise this and are investing a lot in the city's train station. They hire famous architects to design the train station and try to make it more than just a place to depart or transfer. It also becomes a place to connect people and urban areas, through the way the station building is structured. 
+
+Finding a balance between being a mobility junction (not only for trains), having an attractive surrounding and having development opportunities around it, will make it a wanted place for investors. Especially considering how many cities grow toward their stations.
+
+A good, functioning station is essential for the social, economic, political and urban development of a city. That is why this chapter starts with a few examples of interesting train stations. This will mainly focus on the way they are architecturally designed and what influence this has on the urban area around it. After that, we will elaborate on different aspects of the station that influence the passenger’s experience. 
+
+##### Liège-Guillemins Station
+Location: Liège, Belgium
+
+Architect: Santiago Calatrava
+
+Development: The original train station of Liège was opened in 1842. However, this station didn’t meet the needs of 21st-century travel, so a new station was planned. Calatrava was the architect assigned to design this new station. On September 18th, 2009, the station was opened. 
+
+Architecture: The station is built with steel, glass and white concrete, fitting Calatrava’s signature style. Special about this station is its facade. Calatrava told the Belgian railway staff the following about it: "We completely reinvented the facade. Or, better, we said, 'There is no longer a facade.'" (source: The Guardian) There is no main facade on one side, but instead, the building is opened in every direction.
+
+Network and scales: One of the reasons for Liège to built a new train station was the coming of the high-speed train to the city. So next to local trains entering the station, it is also connected to the international network.
+
+##### Tianjin West Station
+Location: Tianjin, China
+
+Architect: Gerkan, Marg and Partners Architects (GMP)
+
+Development: In 2008, renovation work on the station of Tianjin started. At the same time, China worked on a high-speed train track between Beijing and Shanghai. For this, they increased the number of platforms in Tianjin. However, a renovated station wasn’t enough, so they also planned a new station. This new station is opened in the summer of 2011.
+
+Architecture: The station is designed by the firm Gerkan, Marg and partners and has a big impact on the city of Tianjin. It is part of a big urban restructuring project and the station connects the commercial north with the old centre of the city in the south. The architects symbolised this connecting character in the roof construction.
+
+Network and scales: As said, the station also houses the high-speed train. This is served by Jinghu High-Speed Railway. The station is also served by Jinghu Railway and Jinbao Railway and is in that way part of the regional network.
+
+You can reach the station by foot, taxi, bus and metro.
+
+---
+#### Station Design 2
+
+##### Logroño High-Speed Train Station
+Location: Logroño, Rioja, Spain
+
+Architect: Abalos + Sentkiewicz Architects
+
+Development: Logroño already had a station, but it needed to be updated to accommodate the coming of the high-speed train. Abalos + Sentkiewicz Architects won the competition and were assigned to design the station. The new station is part of a bigger urban planning and landscape development project.
+
+Architecture: With this station, they wanted to connect the north and south of the city of Logroño. The architects tried to do this by creating a public park on the roof of this transportation hub which stimulated urban and social integration. It gives pedestrians and cyclist an opportunity for easier mobility.
+
+Network and scales: The high-speed network is operated by Renfe, the Spanish national railway company, and connects Logroño with Madrid, Barcelona en Bilbao. The station is next to the national network, and also connects with the regional one.
+
+##### Grand Central Station, New York, United States
+Location: New York City, United States
+
+Architect: Reed and Stem; Warren and Wetmore
+
+Development: Between 1899 and 1900, a lot of renovation work was performed on Grand Central Station in New York. But because of a crash in the Park Avenue Tunnel on the north side of the station, a decision to build a new Grand Central Station was taken. This station had to, unlike the old one, fit the growing metropolis. After a competition, two architectural firms won and were chosen to make the new design. Those firms were Reed & Stem and Warren & Wetmore.
+
+Architecture: Reed & Stem and Warren & Wetmore agreed to work together under the name of Associated Architects of Grand Central Terminal. The overall design was the responsibility of Reed & Stem, Warren & Wetmore made sure architectural details were included in the design.
+
+Under the ground, there are two levels of train tracks and platforms. On the higher level, the main trains arrive, and at the lower level, the suburban trains stop. Because all the train tracks are underground, there is space to develop real estate above. The construction of the building is strong enough to carry a tower that still can be built.
+
+Network and scales: Grand Central Station has 44 platforms and 67 train tracks and is in that way connected to the regional and national network, as well as the New York subway. Grand Central Station is the biggest terminus station in the world. 
+
+---
+
+#### Assignment: world map
+
+Assignment Week 2: World Map
+Do you have more interesting examples of stations? We want to hear more about them on the World map.
+
+Please click on the map below to access our World map assignment (this will open in a new window), then click on Assignments in the menu on the top-right side to answer Week 2's questions.
+
+Below the image-link to the World map, you will find the Mark as Complete button. Please click this once you have answered the questions, then click Next > to save your response and move to the next section.
+
+If you need assistance with using this program, please go to our manual and Q&A section here.
+
+New on the World Map this week
+Additional filters on the left are now usable based on the input from different countries;
+When clicking on a country, uploaded images on railway map and station design are now visible;
+Button on the right, linked to the cities of the current participants. *
+* At this moment the new 'Show City' option on the right only works for 'Active Users'. 
+Later this course we will introduce the possibility to add 'Local Networks', 'Special Systems' and 'Filming Locations' related to trains and stations.
+
+If your map does not show the new features, please restart the browser after which it should work fine, or delete the browser history of the past day. Please be aware that the map is crowdsources, which is why some information or imagery might be incorrect.
+
+---
+
+#### Station Domains
+
+##### The Station
+There are many different kinds of stations, but what they all have in common is that they are a place of coming and going - a link between the train ride and the environment. This chapter shows that the station is more than a technical and functional building. It is a public space where the traveller’s experience is a focus point.
+
+We can divide the station into different domains, each of which has a separate but interconnected purpose, and signs that create clarity for the travellers and give them the information, orientation and facilities needed.  
+
+![domains](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/ab48fe2e25159fb01848caea59a8bc5e/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/Domeinen.png)
+
+The different train station domains (image by TUDelft)
+
+##### Environmental domain
+The environmental domain ensures that the departing passengers can easily and safely find the station and that the arriving passengers are provided with facilities to continue their journey. The setup for this domain is based on pedestrians, with clear transitions and signs to other kinds of transportation, such as parking lots, the kiss-and-ride, the metro station.
+Entrance domain
+The entrance domain is where the passengers come inside the station and prepare their journey. It is possible to find information about arriving and departing trains (for instance on overhead screens) and to buy train tickets (from ticket machines or counters).
+
+##### Travel domain
+The travel domain is all about moving easily and efficiently to and from the train. It is also possible to get information about the timetable here, for instance. Aside from that, it needs to give the passenger peace of mind (by creating space) to depart and transfer to another train or give comfortable options, like seats, when the passenger has to wait for a short time.
+Accommodation domain
+The accommodation domain is mostly part of the bigger train stations or terminals in a country. Transfer time is often seen as a waste of time by passengers. This domain offers a solution by offering different kind of facilities, such as retail, catering and services to improve the comfort of waiting.
+An example of an unusual service in the accommodation domain is the 'Station Library' in Haarlem, The Netherlands. This started as a two-year trial, to make commuters enthusiastic about going to a library in an easily accessible way. Nowadays, the library has an up-to-date collection of books, a fast service and a broader network to pick up and return books at more stations
+
+Not only travellers are attracted by these facilities and services, the accommodation domain also invites all types of visitors.
+
+---
