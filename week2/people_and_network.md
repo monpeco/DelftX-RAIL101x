@@ -348,3 +348,100 @@ Above drone imagery of the bridge after it was moved next to the existing railwa
 This obviously is an extreme example, but it shows how many factors can be involved if civil structures are needed within the railway network.
 
 ---
+
+#### Transition Zones
+
+In the previous section, we talked about obstacles in the environment and how they can be tackled with bridges and tunnels. This section will be about the transition zone, the zone between the free track and the fixed structure (e.g bridge). Due to different problems that occur in this zone, transition zones often require additional maintenance.  These problems can be solved, but these solutions are costly. 
+
+The video below depicts an athlete jumping from a springboard onto a raised platform: how do you think the gymnast's movement can relate to the transition zone?
+
+
+##### Dynamic Behaviour
+Railway track designs are based on static behaviour, which can be the reason that they encounter dynamic problems in the transition zone (i.e the first few meters of track connected to the fixed structure).
+
+When the normal track is built on top of softer subsoil (which is often the case around rivers, for example), the weight of the track itself, combined with a load of passing trains, will cause subsidence in this subsoil. The bridge, however, of which the foundation reaches the deeper stable layers of soil, is not subject to this subsidence. Due to this, over time a difference in height between the bridge and the normal track will be introduced. Since the rail is continuously welded, in the transition zone, this height difference is overcome gradually, but this will mean some sleepers at this transition zone are not well supported by the ballast.
+
+The introduced height difference has to be overcome by any train passing over this bridge. This means a vertical acceleration of the train is required at the transition zone. The force of this vertical acceleration means an additional load on the transition zone, which is repeated at every passage of a train. This increased load at the transition zone, results in extra subsidence in this zone, thus further increasing the problem.
+
+Due to the newly-created difference in height at the transition zone, the sleepers are no longer properly supported by the ballast. Thus, in the end, not only are the forces in the transition zone higher due to the acceleration, but there is also less support. This means the rail has to deal with far higher internal stresses than seen in other locations on the track. Damages to the rail itself are thus far more likely to occur at this location, and at worst case result in a derailment.
+
+Aside from the technical issues, passenger comfort is also negatively influenced by the transition zone. The subsidence in the transition zone has a similar effect on a train as a springboard has on a gymnast. The train will first jump down into the 'hole' in the track, after which it has to be launched upwards to reach the same level as the bridge. This can be clearly noticed by passengers on the train. When nothing is done about the problem, this effect will just keep worsening over time, and can even cause passengers to fall over while standing on the train. 
+
+Many solutions are currently used to reduce the effects seen in a transition zone, such as the use of wider sleepers (to reduce internal stresses in the soil) and adding extra rails (to increase the stiffness and reduce the stresses in the rail). Some more advanced solutions have been proposed as well, such as placing a balloon underneath the transition zone, which can be automatically inflated to counteract the height difference. Another solution can be a construction in the shape of a slope to create a smooth transition. Although all these solutions can help in reducing the problem, none of those will prevent all the dynamic problems that will occur. The only real solution would be to make the foundation of the track the same over the whole length of the track, thus rather than using ballast track, using slab track with deep foundations. This, however, is very expensive to do and by itself will introduce completely different problems.
+
+
+---
+
+#### City Scale
+
+In this chapter, the differences between railway networks in terms of scale will be explained by means of international examples. There are, for instance, differences in distance (stops), speed, and comfort at the city scale, national scale and international scale, using specific train types.
+
+We look at the cities of Seoul, London and Sydney. If you have additional details on one of these networks, please feel free to use the discussion at the bottom to share with other users. For follow-up runs of this MOOC, we can add your facts and experiences to make this section more complete.
+
+In week 6, it will be possible to add local and regional systems/network from other cities and countries, which will be visualised on the world map.
+
+
+##### Seoul
+The Seoul Metropolitan Subway is world's longest multi-operator metro system by route length, but is also known as one of the most comfortable public transportation networks of the world, due to its cleanliness and ease of use. With a network that consists of 9 lines, around eight million customers can travel properly in Seoul City and its surroundings on daily basis. Most of the system is operated by the following three companies: Seoul Metro, Korail and Metro 9. 
+ 
+Advanced technology, such as Wifi, is accessible in all stations and trains. In addition, other luxurious conveniences, such as heated seats, tv screens with news and plenty of legroom make the customer's journey comfortable. Customers are able to use the smart payment system at every line. This technology makes it possible to pay automatically by smart cards, smartphones or credit cards. 
+
+##### London
+London's metro network, also known as the Underground or the Tube, serves London and some parts of the counties Buckinghamshire, Essex and Hertfordshire in the United Kingdom. With 11 lines and 402 kilometres of railway, the London Underground is the third longest network in the world. Besides that, it is also known as the oldest network in the world, because the first line was build in 1863.  The Underground network consists of 9 zones, where central London is zone 1. Due to the urbanisation in the 19th century, there was a lack of space in London, which made authorities decide to build a rail under the ground. The average depth level of the rails is 20 meters underground, where metro-station Hampstead on the Northern line is the deepest station, that runs down to 58.5 metres. 
+
+The Tube brings around 3 million people to their destination a day. During a weekday this is even higher with an average of 3.4 million travellers, where Waterloo station is the busiest metro-station. 
+
+For lots of travellers worldwide, the Underground is recognisable and famous by its Roundel. This blue and red sign was first used in 1908. The 100th anniversary of the Roundel was celebrated in 2008 by 100 artists, that made posters of the design. 
+
+London's metro network connects different important railway stations within Greater London. Like in many European cities in the early years, railways were operated by private companies, each having its own access point. Famous stations like Charing Cross, Waterloo and Liverpool Street Station all have large passenger numbers but are not connected with each other by continuous railway lines.
+
+Many of London's railway stations are internationally known due to their size, history and design. In multiple occasions these settings have been used as film locations, of which Harry Potter at King's Cross is probably the most famous. In week 6 we will look at famous movie scenes in which either trains or stations play an important part which will be visible on the world map.
+
+##### Sydney
+
+To cope with the extraordinary population growth, Sydney's transportation network is undergoing some major changes. Their metro line is currently the biggest public transportation project. This new railway will deliver 31 metro stations and more than 66 kilometres of new rail. To connect, Sydney the metro will be extended into the Central Business District (CBD) and beyond in 2024. The metro will run from the North West region under Sydney Harbour, through new underground stations in the CBD and beyond to the South West. 
+
+With this new network, it will be possible to run a metro train every two minutes in each direction under the city. This means that the consumer capacity will be increased from about 24 000 travellers each hour per line to 40 000 travellers per hour. 
+
+This new transportation network means fast, safe and reliable metros, connecting people wherever and whenever they want to go. The customers do not need timetables anymore because the metro will run frequently. Technology will serve the customers within all the different stages of their journey, giving them real-time travel information. 
+
+Of particular interest is how commuter trains circle within the city, after entering the main (central) railway station. Trains run around the city centre, making frequent stops, creating a metro-like system. The network below looks like a metro network but is actually Sydney's regular train network. 
+
+If you compare this scale to the London underground map above, it actually is about the same distance from one end of to the other, but central London is in the middle of the map, whereas Sydney is on the far right, requiring a different system: train vs metro.
+
+
+---
+
+#### Dutch Network
+
+he Netherlands has a dense railway network connecting all major cities, as well as most larger towns, with over 400 stations in a rather small country. The largest operator (Nederlandse Spoorwegen or NS) is semi-private owned and is mainly focussed on passenger transport during both day and night. The NS has two different groups of trains:
+•The 'Sprinter' or 'local train' is made for commuters that need to travel short distances and stops at both smaller and larger railway stations. The average travel time is around 15 minutes with this train. It stops at all stations. 
+•The 'Intercity' or 'interstate train' is made for travellers that need to travel longer distances. These trains stop only at the larger train stations. The comfortable design and facilities in this train are adapted to a longer travel time.
+
+Besides NS, there are more companies that operate in The Netherlands, mostly within specific states (provinces) as well as different freight companies. The infrastructural network, on which they all operate, is managed by a different semi-private party (ProRail), which is responsible for allocating slots to the different companies. The complexity in the network arises from different preferences in the transport. The focus of the passenger network is not only on frequent connections between big cities but also on making as many direct connections as possible. In general, any combination of the intercity station can be linked with a maximum of one transfer.
+
+Direct intercity lines for example run from Groningen to Rotterdam, Enschede to Den Haag (The Hague), and Maastricht to Alkmaar. All these links span around 200 km, which is approximately the width of the country. Furthermore, from most of the intercity stations, there is a direct link to Schiphol airport, being one of the main hubs in the Dutch network. All these direct links and long connections make that especially the central part of the network (between Rotterdam, Amsterdam, Amersfoort and Utrecht), can quickly become a logistical nightmare. Delay on just one of the long routes can influence many of the other routes crossing or sharing some of the same sections.
+
+Besides passenger transport also freight transport has to share on parts of the same network. The main origin and destination for freight trains in the Netherlands is Rotterdam Harbour. From here freight connections are established with many places all over Europe. There is even a train link all the way to China. Although a dedicated rail-line is now available for freight trains to Germany. Due to the limited capacity once crossing the German border, not all freight-trains can use this connection at the moment. This means many freight trains still have to be sharing the passenger network as well. 
+
+There has been a discussion on how to deal with a dense and complicated network like this, where multiple different trains use the same network en drive rather long routes. Due to the denseness of the network, a large number of switches and platforms are needed to guide all the different trains running from one side of the country to the other. A way of making the network more sufficient would be by creating circular lines which not interfere with each other. This way switches are not needed and trains have their own lines, limiting the change on disruptions and increasing both reliability as well as frequency. The video above shows how this could be implemented within The Netherlands.
+
+---
+
+#### Japanese Network
+
+After examining the Dutch national railway infrastructure, we will take a closer look at the Japanese network, which is most famous for their punctual high-speed network. If you are a frequent user of this system, please feel free to add details and facts in the discussion at the bottom of this page to enrich others on the worldwide known bullet trains.
+
+Rail transport in Japan primarily focuses on passengers, especially high speed and mass travel between the major cities. The most prominent operator is Japan Railways group, commonly known as "JR", which provides a service throughout the country, which is divided into six regions. This government-owned network runs the Shinkansen (bullet train) routes, which reach a maximum speed of 320km/h and operate on separate tracks from regular trains.  
+
+In addition to this, each big city has at least one private train line that serves the city and its surroundings. In post-war Japan, the government stimulated private corporations to develop their own railway line in order to rebuild the transportation network. Nowadays, this privatised network is efficient, extremely punctually and affordable.
+
+During rush-hour, the Shinkansen trains run as frequently as every ten minutes and sometimes even more. Most trains only have reserved seating (in Europe, this is only comparable to high-speed international trains, like Thalys). While tourists make use of this fast connections as well, they can only make reservations for specific trains, which still run multiple times an hour. Most bullet-trains are for Japanese commuting only, which creates an extremely fast and reliable network, enabling people to work and live in different main cities with limited travel time.
+
+The high-speed train tracks have very little elevation and run right through mountains, of which there are many in Japan. It creates an extremely fast and reliable network, beating any other form of transport, like cars and airplanes. Regular trains are similar to other countries, with a great diversity of design and age.
+
+Comparing the travel time between the cities of Sendai and Niigata gives a clear idea of the difference in rail transport. On a sky-wide distance of around 140 km, the regular trains bring you over the mountains in six to seven hours, whereas the Shinkansen takes you there in under four hours. An interesting fact, in this case, is that the Shinkansen travels over Tokyo, making the total travel distance almost 800km, but is still much faster. 
+
+---
+
+#### Euro-Asia Connections
