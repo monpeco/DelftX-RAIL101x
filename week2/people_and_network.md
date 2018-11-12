@@ -221,3 +221,33 @@ The following example shows The Hague Central Station and its different station 
 
 The Hague Central station is an easy-to-read building, where multiple public transportation networks converge. The station building includes all modes of transportation: train, tram and bus. Inside, the trams ride along an elevated track above the train tracks. Retail and hospitality areas can be taken in at a glance. Nowadays, about 190 000 travellers and passers-by make use of The Hague Central Station, but this renovated building was built to host double this amount, in order to fulfil the needs for the coming decade. To facilitate this huge number of travellers, they designed a natural and flexible organisation of traffic flows. Multiple routes are possible, in order to let the traveller create their own route in an easy and clear way.
 
+---
+
+#### Crowd Sensing
+
+##### Crowd Management
+After developing a good wayfinding system in a train station, it is necessary to track and predict the pedestrian flow. When you have the right data and findings, you can improve the ease and speed of walking through the station. This will directly increase the customer satisfaction, but maybe, more importantly, will increase the safety in the station as well. 
+
+First, the pedestrian flow needs to be monitored in order to get a good overview of what is happening. This can be done by different kind of sensors/tools, such as cameras, wifi-spots, Bluetooth or location trackers. This data collection will include the number of visitors, densities and walking speed. When there is a big event going on and they expect a big crowd, they even check social media sources to know who the visitors are and what they are talking about (see the flowchart below). With this information, they can determine the level of service they want to provide to the travellers and the potentially dangerous situations that might occur. 
+
+When the right data is gathered about the pedestrian flow, predictions and decisions can be made to develop the train station. The following golden rules provide solutions of where to act and when improving the crowd management with the data. 
+
+1. Increase throughput at pinch points in the design.
+2. Prevent blockades by separating flows in different directions.
+3. Distribute traffic over available infrastructure by means of guidance or information provision
+4. Limit the inflow (gating) ensuring that the number of pedestrians stays below the critical value.
+
+The videos (below) show how to solve major crowd management problems. One is a train station in Santiago, where the daily pedestrian flow caused difficulties when moving out of the station. This was solved by separating the flows in different directions (direction 2). The other video shows the improvements of information provision during emergencies in a train station in Barcelona (direction 3).
+
+
+---
+
+#### Fun fact or good story?
+
+Each week we have hidden a story related to the main topic discussed. Do you have any other fun facts affiliated with People and the Railway Network? Share your knowledge on the forum below.
+
+One station, four continents
+Did you know Flinders Street Station in Melbourne, Australia and the Luz Station in Sao Paulo, South America have a surprising number of similarities, being 13100 km apart, but both established by the English, Europe. You also might recognise some of the East-Indian inspired design in Melbourne. This is most likely due to the fact that the original plan was to use the drawings for Melbourne's most famous station for another project in Mumbai, Asia. The story goes that the shipments were wrongly labelled and two stations were fully constructed at the wrong locations. 
+
+---
+
