@@ -251,3 +251,35 @@ Did you know Flinders Street Station in Melbourne, Australia and the Luz Station
 
 ---
 
+#### Urban Barrier or Opportunity
+
+Railways, particularly stations, can greatly add to a city, both as a hub for new business and as an architectural landmark. We will look at different ways how the railway network influences its surroundings, dealing with both environmental and urban limits and challenges. Before getting into detail on nuisance, we will start this section by analysing how railway tracks can either form a physical and/or social barrier and when this can be an opportunity rather than a problem.
+
+##### Southbank London, United Kingdom
+Situation: The Southbank Centre of the river Thames in London has been in developing since the early 1950s when the festival of Britain was organised. Over the years it became a cultural arts district next to the railway line connecting Embankment Station across the Thames. Where one side of the track has extremely flourished, the other side became a setting where no one wanted to come. The station and its lifted rail track have dominated the area, cutting the Southbank into two. 
+
+In the central image above the yellow lines represent the ideal way to walk towards Waterloo Station, London's largest railway station which is used by over close to a hundred million each year. These travellers are mostly commuting and tend to use the fastest way. The blue/green lines represent how people actually walk, which are different routes, avoiding the undeveloped site of the Southbank. Lastly, the purple dots are where people feel unsafe, where the blue, green and yellow dots are where they would like to be. The railway bridge forms an extreme barrier between both.
+
+Opportunity: Where Allies and Morrison successfully developed the northern side of the railway in 2007, multiple competitions had been launched over the years to integrate both sides. In 1999 Rick Mather Architects was selected to make a masterplan for the Southbank. To start with the master plan, a few important principles were established; accessibility, legibility and the public realm. They aimed for a greater mix of users also for longer periods of the day. 
+
+Where the master plan was never fully realised, multiple architecture firms and landscape designers got involved in this challenging project. Where Allies and Morrison made follow-up plans for further development of the Southbank Center, new competitions were launched to integrate the railway track. West 8 started working on maximising the public space in the Jubilee Gardens on the south side (close to the London Eye).
+
+Between 2007 and 2013, three public squares have been created on the side of Royal Festival Hall, Hayward Gallery and Queen Elizabeth Hall, the ‘liner’ building was placed on the north side of the Railway Bridge, making a new pedestrian route onto the Hungerford Bridges and shielding the public space and Royal Festival Hall from the high lifted railway and the Jubilee Gardens were developed into a high-quality park. Enough potential to make the connection, but the car park next to the railway bridge stayed empty.
+
+
+##### High Line New York City, The United States of America
+Situation: the High Line in New York was originally built for the transportation of meat and poultry, and was finished in 1934. The line is 2,3 kilometres long and runs parallel to 10th Avenue. Because the popularity of automobile transportation increased, the last train to use the line was in 1980. 
+
+The High Line is, as the name implies, higher than ground level. In this way, it has created a form of barrier in the city. 
+
+Opportunity: Around 2003 plans to give the unused high line a new purpose were developed. The city council of New York decided to turn the line into a park. This park is designed by the Dutch architect Piet Oudolf. In 2009, the first part of the park opened for visitors and has been a success since then. Instead of being a barrier, the High Line now connects people and urban space.
+
+##### Railway Master Plan Delft, The Netherlands
+Situation: The train track in Delft dates from 1847 and was built on the west side of the city. Later, the city grew and the track no longer bordered the city but split it in two. The solution for this was to lift the train track on its own railway arch, and underneath this viaduct, parking placed were created. However, this made it an unpleasant area, which was experienced as a barrier in the city. As railway traffic expanded, the double track viaduct became a bottleneck in the rail connection between the cities of Rotterdam and Amsterdam.
+
+Opportunity: The urge to solve this unwanted situation grew and eventually a 2,3 kilometre-long railway tunnel including an underground station was built instead. Putting the train track underground meant a lot of space on ground level was opened up. This made it possible to redesign the Rail Zone in Delft. The design also included plans to reconstruct the canal that was once parallel to the train track, make room for a park, build houses and other facilities, like a school. In addition, the old train station has been replaced by a new one. The first part of the tunnel was opened in 2015, with 2 tracks available. After removing the old railway viaduct the construction of the second part started which will be taken into service by the end of 2019.  
+
+##### Did you know?
+
+In early years stations were often placed on elevated platforms. This way a train approaching the station 'automatically' would decrease in speed, where trains leaving the station would gain it. Both usually cost a lot of power, which was saved by a smart way of designing. 
+
