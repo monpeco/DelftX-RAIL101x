@@ -445,3 +445,21 @@ Comparing the travel time between the cities of Sendai and Niigata gives a clear
 ---
 
 #### Euro-Asia Connections
+
+The Trans Siberian Express is known by many and, while it officially starts in Moscow, travellers can begin their train journey anywhere in Europe. Connecting to this railway line brings you all the way to Vladivostok on the Sea of Japan, and only about 100 km from North Korea.
+
+Extremely long passenger routes have existed for over a 100 years, and while there are many, we can't go into detail for all of them. However, we do want to briefly discuss a new development in which freight connects over thousands of miles. This creates pressure on the traditional system, but allows intercontinental goods to be transported by ships and then moved inland by rail, road and inland waterways.
+
+In recent years, several electronic companies are investing in transport by train instead of ship. The transport is more expensive but cuts the transport time in half. For products with a quickly developing market, this can be more profitable. Any product that is 'on transport', cannot be sold. So reducing the transport time will significantly increase revenue. This way of transportation is especially interesting for large companies in electronics and the automotive industry.
+
+The effect is that Western Europe is no longer at the forefront of the transit route. A good portion of the transport will enter Europe from the east, which will result in a bigger industry from Eastern European countries, while at the same time, less transport will take place from the west.
+
+This does not mean that the ports on the western side will become obsolete, since this is still a rather expensive form of transport, and is only profitable for specific industries, but it will have an effect on the intermodal transport.
+
+More on freight transport in week 3 of this course.
+
+Interested in more long railway routes? [CNtraveler](https://www.cntraveler.com/galleries/2014-10-15/world-s-longest-train-rides-russia-us-canada-australia) takes you on eight of the World's longest train rides where the journey is the destination.
+
+---
+
+#### Public vs Private
