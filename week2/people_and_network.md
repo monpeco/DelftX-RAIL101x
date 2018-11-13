@@ -472,9 +472,24 @@ For instance, in the Netherlands ProRail is a semi-private company that owns the
 ---
 
 
+#### Introduction
 This part of chapter 2 will give an insight into the train station of Lille. Different aspects of this station make it an interesting case to look at. A few of these factors can be explained by the so-called 'PEST-model': a tool to do an external analysis or research to discover potential directions for operations. 
 
 ![PEST](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/0f0dd3a5b8461671b63ae3eb0f32e9bc/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/PEST_model.png)
 
 Factors of the 'PEST' model (image by TUDelft)
 Keep these aspects in mind while reading the case study. Questions will be asked at the end of this chapter.
+
+
+---
+
+
+#### Location
+
+Lille is a city in northern France. It’s founded on an island in the Duêle River, which explains the name of the city. It comes from the Latin word l'île (the island).
+
+The city was built with walls around it. This caused trouble at the beginning of the 19th century. Lille needed a train station but there was disagreement on the location of the station, inside or outside the city walls. The solution was found in a compromise. A terminal for passengers would be built inside the city walls, one for the goods outside. Later when the city evolved most of the city walls disappeared.
+
+---
+
+#### Development
