@@ -463,3 +463,18 @@ Interested in more long railway routes? [CNtraveler](https://www.cntraveler.com/
 ---
 
 #### Public vs Private
+
+Graded Discussion:
+For this next assignment, you are asked to consider: what is the divide between public and private railway ownership in your country?
+
+For instance, in the Netherlands ProRail is a semi-private company that owns the railway infrastructure, but not the trains nor the metro networks.
+
+---
+
+
+This part of chapter 2 will give an insight into the train station of Lille. Different aspects of this station make it an interesting case to look at. A few of these factors can be explained by the so-called 'PEST-model': a tool to do an external analysis or research to discover potential directions for operations. 
+
+![PEST](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/0f0dd3a5b8461671b63ae3eb0f32e9bc/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/PEST_model.png)
+
+Factors of the 'PEST' model (image by TUDelft)
+Keep these aspects in mind while reading the case study. Questions will be asked at the end of this chapter.
