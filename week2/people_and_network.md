@@ -493,3 +493,75 @@ The city was built with walls around it. This caused trouble at the beginning of
 ---
 
 #### Development
+
+Lille flourished during the industrial revolution thanks to coal, mining and the textile industry. At the end of the 20th century, the city endured a setback caused by the declined production and demand for those products. Lille decided to focus on the tertiary sector, the service industry. 
+
+
+A major impulse was given to the city due to a few political decisions. The agreement for a tunnel between the United Kingdom and France was signed in 1982. Lille was selected to house the station for the TGV instead of Amiens and that the train station would be built in the city centre.
+
+This is due to the location of Lille, which is centrally between Paris, Brussels and London, and the coming of the TGV train which meant that those three places are relatively fast to reach. Specifically: 1 hour to Paris, 38 minutes to Brussels and less than 2 hours to London. The combination of the centrality and proximity of Lille makes it a favourable business environment. 
+
+
+---
+
+#### Architecture
+
+The Architect
+A new station was needed with the coming of a TGV train stop in Lille instead of Amiens. To design this station and the area around the station, OMA (Office for Metropolitan Architecture) was selected in 1989. OMA is a Dutch architectural firm based in Rotterdam.
+
+However, there wasn't a competition to select an architect for this project. Instead, eight architects were interviewed for a day. Rem Koolhaas, the founding partner of OMA, was selected to design Euralille.
+
+The project
+Euralille is the name they gave to the development of the station and real estate around it. The project covers a large area and has a big impact on the city. OMA was responsible for the urban planning of Euralille. Different architects designed the buildings in the plan.
+
+The only reason the architects of OMA were not completely paralyzed is that they didn’t believe this project would succeed. This caused them to design in a bold way and to their surprise, their ideas were approved (source: book 'S, M, L, XL'  by Rem Koolhaas and Bruce Mau)
+
+The TGV was planned to go underground in a tunnel. The first thing OMA suggested was to put the highway in a tunnel parallel to the TGV tunnel. Between these two tunnels, a parking garage was planned. The following image shows the current situation.
+
+The new TGV station was build in an angle compared with the original station, Lille-Flandres. Because of this, a triangle shape arises between the two train stations. OMA decided to place a public building in this triangle, Triangle des Gares. The building houses a big shopping mall and other facilities (which will be explained later) and was designed by Jean Nouvel.
+
+Triangle des Gares’ roof is tilted, one part is designed in such a way that the TGV tunnel is exposed. This makes it possible for visitors to see the TGV trains. Because of this, the connection between the city and the new high-speed train, who has a big impact on the development of the city, is made.
+
+Above the TGV tunnel, a few high buildings were planned by OMA. These buildings would symbolize the influence of the coming of the TGV in Lille, developing it as a business centre. Two of the planned buildings have been completed already.
+
+A little bit farther away from the stations, OMA built its own building. It is oval-shaped and 300 meters long. In it are three different components: Zenith, a 5000-seat concert hall; a congress centre with three auditoriums; and an exposition space of 20.000 m2. The three different parts are connected and can be used together. 
+
+
+---
+
+#### Station Domains
+
+As described before, different domains can be distinguished in a train station. The environmental, entrance, travel and accommodation domain. Different facilities occur in these domains. In these images, you see the various aspects of the station of Lille.
+
+---
+
+#### Network and Scales
+
+If you look at the train network in Lille, the city operates on different scales. The national and the regional trains mostly depart from the original train station of Lille (Lille-Flanders). The new station, Lille Europe, is built for the TGV, which is an international train.
+
+---
+
+#### Assignment PEST model
+
+Your major assignment this week asks you to apply what you have learned about the way railway people influence the railway to a real case, using the PEST model.
+
+The PEST model examines the Political, Economic, Socio-cultural and Technological factors that influence the development or improvement of a civil project such as a new station. 
+
+We ask you to review the case of the station Lille in light of this model.
+
+This is a two-step assignment:
+
+Step 1: submit your answers as guided by the prompts
+Step 2: you will be prompted with a marking rubric and the model answers, please review your work. 
+
+
+In this assignment you are asked to consider the Lille case in relation to the PEST Model.
+
+1. In 2 sentences, please describe what the political/legal case for building the Lille Station is:
+2. What economic factors influenced the building the station? (In just 1 or 2 sentences)
+3. What socio-cultural factors influenced the building of the station?
+4. What technological developments made the creation of this station possible?
+
+---
+
+
