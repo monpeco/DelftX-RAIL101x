@@ -565,3 +565,26 @@ In this assignment you are asked to consider the Lille case in relation to the P
 ---
 
 
+#### Play the game
+
+The Game
+This week, we introduce our serious game for the first time.
+
+We hope the gameplay is self-explanatory, but if you need more guidance, you can go to our game manual.
+
+Goals for this week:
+While the whole game with all its missions are open from the beginning, to make the most of your learning experience, we hope you will focus on these specific missions during week 2:
+
+* First Track Built
+* Tarbec's Satellite Cities
+* Don't Disturb Mother Nature
+* Taking the Touristic Route
+* Top to Bottom
+
+Click the button below to launch the game in your browser or use the direct link for Apple Store or Google Play. 
+
+NB. Internet Explorer occasionally sends error messages. We strongly recommend that you load EdX in a different browser - Firefox and Chrome are both excellent options. Also, please launch the game directly from within the edX-environment. 
+
+
+---
+
