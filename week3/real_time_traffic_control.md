@@ -17,3 +17,18 @@ Various parts of the country working on slightly different, locally-agreed time 
 
 ---
 
+#### Market vs Concession
+
+While our focus during this MOOC is primarily on passenger transportation, we will sometimes look at freight transport, since it often uses the same infrastructure and is an important part of the railway network. When comparing both, the finances behind both of systems are particularly important. Where passenger transport is largely self-sufficient in dense area's (paying users), it has a wider range and also stops at remote places, which is often based on regulations from the government. This makes passenger transport supply-orientated.
+
+Rail freight transport is in competition with the other modes of transport: truck and barge. Rail freight transport also contains several markets, for instance: automotive, chemicals, lubricants, steel, containers and dry bulk, which all have their own market dynamics and conjuncture constraints. The volumes, hinterland connections and frequencies differ between markets and regions. This means that there is a strong relationship between economic development and rail freight. As part of this economic relationship, the development of ports and logistic centers is a determining element in rail freight business. This is one of the main differences between freight transport and passenger transport. This makes freight transport demand-orientated.
+
+For passenger transport, concessions are issued by governments and are based on regions. These concessions ensure a frequent supply of trains, even if there are no passengers. This makes the transport system user-friendly. For freight, this is not the case. If there is no demand, then there are no trains. This is a fundamental difference. Each train, track usage or container, costs money and someone has to pay for this.
+
+While for passenger transport, railways are used for many different distances; for freight it usually is operating at a semi-long distance. The graphic below shows how money is the main factor in choosing a transport type, which is used for commercial purposes when transporting goods. Transport costs (Y-axis) are not zero for the different modes since it represents the terminal costs for loading and unloading. D1 is the break-even point of road and rail. Up until this point, transport by road is most cost efficient. D2 is the break-even point of rail and inland shipping. Beyond this point, shipping becomes cheapest. Between D1 and D2 is where rail transport gives the lowest transport costs per unit. The graph shows that for smaller distances, road transport remains the preferred mode of transport.
+
+An exception is the new freight route from China to Europe, which has been briefly mentioned in the previous week. This new connection makes long rail transport possible. Where it might cost more than shipping, each transport has additional advantages. Where costs often are leading, time, reliability and safety are also taken into account as well as the environment. Railways are doing very well on these factors.
+
+---
+
+#### European Freight Network
