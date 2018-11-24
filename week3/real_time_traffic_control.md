@@ -74,3 +74,27 @@ Obtaining a workable timetable design isn't as simple as inputting everything in
 ---
 
 #### Supply Design: Introduction
+
+The supply design defines how the trains will run throughout the network. Specifically, it outlines:
+
+1. The route of the trains,
+2. Where the train stops,
+3. The frequency of the train (how many trains per hour).
+
+It is not yet a timetable. That is the next step.
+
+Below, you can see an example of a supply design.
+
+This is based on the  Programme Train Transport with High Frequencies in the Netherlands, which will be discussed in more detail later this week. This is just to give you an idea of the complexity of a dense network.
+
+You see high-speed lines (green), Interstate lines (blue) and Local lines (red).
+
+For passenger transport, making a supply design is a process of many choices because there are many criteria to take into account.
+
+Sometimes, these criteria conflict, and sometimes criteria are not fully rational, such as political wishes. Therefore, most supply designs are hand-crafted and supported by many tools for evaluation. There are some developments, using Artificial Intelligence, but they have not yet been particularly successful.
+
+In the next units, we will discuss several design dilemmas related to timetabling.
+
+---
+
+#### Supply Design: Dilemmas 1 and 2
