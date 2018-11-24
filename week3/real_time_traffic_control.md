@@ -61,3 +61,16 @@ There are four main reasons why we make timetables:
 ---
 
 #### Design Process
+
+Obtaining a workable timetable design isn't as simple as inputting everything into a single software package; it takes several steps and pieces of software.See figure below.
+
+1. The first step is creating a supply design. A supply design defines how you want the trains to run throughout the available network. You decide which train you want to have at a place in the network, based on the passenger demands. The design outlines the route of the trains, where the trains stop and what the frequency of the trains is (given in the number of trains per hour). For passenger transport, making a supply design is a process of many choices.
+2. Now that you have a supply design, it is time for the next step: creating a timetable design. The supply design gives the desired train frequency of trains on the network, but it does not tell you if this will actually fit. Timetabling is the placement of a supply design in time. Using timetabling software, a so-called time-distance diagram is generated showing what the supply design would look like when placed in time. If the results do not fit in time, the supply design is adjusted. The final result of this step is a workable timetable for a certain supply design.
+3. The next step in the design process is to evaluate the obtained timetable. Two common evaluations are an evaluation based on passenger demand and an evaluation based on disruptions.
+    1. The first evaluation matches the created timetable with the actual passenger demand. The timetable and a passenger prognosis are put in a program to determine how full the trains in the network will be. If trains are overfull or empty at places in the network, it means that the supply design needs to be adjusted.
+    2. The second evaluation method evaluates the robustness of the design by randomly creating disruptions in a simulation, which is based on real-life cases. If the disruptions naturally dampen, then the design is sufficient. When the timetable passes all evaluation methods it is considered good enough to be executed.
+4. Now that we have a definitive timetable, all sub-processes need to be scheduled. These are all the processes required to actually execute the timetable. Employees are needed, trains need to be coupled and decoupled at the right time, etc. This is called micro timetabling. Once this step is completed, the process is finished and we have obtained a workable and executable timetable for the network.
+
+---
+
+#### Supply Design: Introduction
