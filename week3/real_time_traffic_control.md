@@ -50,3 +50,14 @@ From this point onwards, we will again focus on passenger transport operations, 
 
 #### Purpose of a Timetable
 
+Why do we make a timetable?
+There are four main reasons why we make timetables:
+
+1. **Information to the passengers** Operational perspective for the traveler is a service provided by most public transport systems. The passengers use the timetable to plan their trip. Having a timetable allows them to do this.
+2. **Allocation of resources** The timetable shows which train should be where throughout the day. This is used to determine when and where rolling stock and train crew should be ready. This cannot be scheduled without a timetable.
+3. **Train traffic management** The timetable is the starting point for real-time traffic management. It is how the trains travel when everything is going according to plan. This published plan is the desired level of operation. When a disruption occurs this plan cannot be followed anymore. The traffic manager (train dispatcher) makes an alternative plan. After clearing a disruption the alternative plan is brought back to the level of the published plan.
+4. **Capacity analysis** The test of the available rail capacity fits with the train traffic demand. Therefore, we use time-distance diagrams.
+
+---
+
+#### Design Process
