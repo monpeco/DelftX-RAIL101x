@@ -32,3 +32,21 @@ An exception is the new freight route from China to Europe, which has been brief
 ---
 
 #### European Freight Network
+
+
+Freight transport is an international operation. A free market requires a suitable railway network to be able to efficiently transport products. Rail infrastructure is generally developed separately in each country. Therefore, every country has its own kind of infrastructure facilities and materials. In Europe, to facilitate the free market, rail corridors are developed. These corridors are lines through multiple countries that use uniform structures and stock. This leads to a more suitable railway network for freight transport. The figure below shows these rail freight corridors.
+
+The corridors can be strengthened in several ways. First of all, the structures and stock can be made uniform along the entire corridor. Another way is to improve the track to facilitate larger and heavier trains. This improves the capacity. The final way to strengthen the corridor is by removing bottlenecks. Bottlenecks are locations along the track, which largely limit the capacity. An example is the strengthening of the Rhine-Alpine corridor. This is done by removing the bottleneck in Switzerland: i.e. improving the Gotthard-Basis and Lötschberg tunnels. The figure below shows the pre and post situation for the Gotthard-Basis tunnel in blue and red respectively. The flat route in the new situation can accommodate longer and heavier freight trains.
+
+Effect of corridors on infrastructure in a country
+The introduction of the European rail freight corridors changed the focus of the rail network in countries from national to international. In the Netherlands, 85% of all freight transport is now international. Only 10% is national and 5 % transit. There are 3 European corridors that go to/from the Netherlands. The figure below indicates the distribution of this rail freight transport. You can see that most of the transport goes to/from the Rhine. Around 60% of the transport travels further than 300 km.
+
+Rotterdam is the largest port of the Netherlands and the main rail freight routes are directed from there towards the hinterland. You can see this in the figure below. You clearly see a main “highway” for freight transport from the port towards the hinterland.
+
+From this point onwards, we will again focus on passenger transport operations, looking at both time-tabling and real time traffic management.
+
+
+---
+
+#### Purpose of a Timetable
+
