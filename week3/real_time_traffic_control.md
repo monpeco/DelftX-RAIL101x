@@ -98,3 +98,15 @@ In the next units, we will discuss several design dilemmas related to timetablin
 ---
 
 #### Supply Design: Dilemmas 1 and 2
+
+Design dilemma 1
+The first dilemma is the number of stops. This is a dilemma between speed and accessibility of the train system. When you add stops, more people have a train stop near their house or destination. The consequence is that the average speed of the train decreases.
+
+The main considerations are:
+
+
+| Many stops |  Few stops |
+| ---------- | --------- | 
+| High accessibility | Low accessibility| 
+| Low speed | High speed| 
+
