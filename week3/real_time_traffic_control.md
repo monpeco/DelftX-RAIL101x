@@ -99,7 +99,7 @@ In the next units, we will discuss several design dilemmas related to timetablin
 
 #### Supply Design: Dilemmas 1 and 2
 
-Design dilemma 1
+**Design dilemma 1**
 The first dilemma is the number of stops. This is a dilemma between speed and accessibility of the train system. When you add stops, more people have a train stop near their house or destination. The consequence is that the average speed of the train decreases.
 
 The main considerations are:
@@ -121,6 +121,30 @@ Another factor to consider is the optimal stop-distance depending on the travel 
 | interregional | 10 km | 40 – 100 km | express train |
 | regional | 3 km | 20 – 50 km | regional train |
 | conurban | 1 km | 5 – 30 km | light train/metro |
+
+**Design dilemma 2**
+The next dilemma is: How many levels of scale should you offer on one line?
+
+In this case the definition of a 'level' is the speed difference on one line (see figure below). With two different speed variations, there are 2 levels. Speed differentiation is very important for the capacity of a rail track (more about that later). The rule of thumb is that the capacity is dependant on the number of level of scale. As you can see, the more different levels exist on one track the lower the capacity.
+
+The main considerations are:
+
+| more levels of scale |  fewer levels of scale |
+| -------------------- | ------------------- | 
+| more stations in a higher system | greater total capacity | 
+| lower travel time between main stations | greater robustness of the operations | 
+
+A well-known system with one level of scale is the metro system. All trains have the same speed, size and number of stops. This results in a high capacity and a very robust system. The downside is a relatively longer travel time between main stations. For a national train system, this is unsuitable, as it would displease the traveler (especially commuters). Therefore, a second or even third level of scale is introduced on the same tracks. These trains stop at fewer stations, reducing the travel time between main stations, which better suits traveler-demand. But, the consequence is that the total capacity goes down.
+
+---
+
+#### 3. Real Time Traffic Control   3.2 Timetable design   Supply Design: Dilemmas 3 and 4
+
+
+
+
+
+
 
 
 
