@@ -110,3 +110,45 @@ The main considerations are:
 | High accessibility | Low accessibility| 
 | Low speed | High speed| 
 
+Travelers prefer high accessibility. But, for the train operating companies, new stations are often not profitable. The cost of longer driving times are higher than the revenue from the new passengers. At present, in the Netherlands, there are approximately 100 requests for new stations (mostly political wishes).
+
+Another factor to consider is the optimal stop-distance depending on the travel distance. Five levels of scale can be defined as given in the table below.
+
+| level of scale | average distance between stops | travel distances | means of transport | 
+| -------------  | ------------------------------ | ---------------- | ------------------ | 
+| international | 100 km | 300 – 1000 km | high speed train |
+| national | 30 km | 80 – 300 km | intercity train |
+| interregional | 10 km | 40 – 100 km | express train |
+| regional | 3 km | 20 – 50 km | regional train |
+| conurban | 1 km | 5 – 30 km | light train/metro |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
