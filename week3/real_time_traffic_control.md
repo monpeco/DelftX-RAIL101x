@@ -140,6 +140,29 @@ A well-known system with one level of scale is the metro system. All trains have
 
 #### 3. Real Time Traffic Control   3.2 Timetable design   Supply Design: Dilemmas 3 and 4
 
+**Design dilemma 3**
+
+A next dilemma is the coupling of lines through the main station. See figure below.
+
+![dilemma3](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/b687213f4d0a7a3290dde002b2366cf4/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/supply_design_dilemma_3.png)
+
+
+1. Radial: turning of trains in the main station. (Upper line)
+2. Transversal: coupling of lines through the main station, no turning of trains. (Middle line)
+3. Semi-transversal: the trains don’t turn at the main station, but one or some stations further on. (Lower line)
+
+The main considerations are:
+
+| coupling of lines |  turning of trains |
+| ----------------- | ------------------ | 
+| more direct connections without transfer | balanced train occupancy | 
+| less turning trains | more robustness in operation | 
+| less transferring travelers |  | 
+
+Coupling of lines are often preferable because of the positive effect on track and station capacity. Less turning trains mean that the track capacity goes up. Less transferring travelers mean fewer people on the station, thus a decrease of transport flows. This is positive for the station capacity. In addition, travelers prefer fewer transfers. A downside of coupling is that the size of the train is based on the busiest section of track. This means that there will be sections where you will run trains that are bigger than necessary. By turning trains, the train occupancy is more balanced. Semi-transversal lines are used when turning on the main station is very difficult, because of track capacity. The main example is Schiphol. There the trains run through to Hoofddorp for turning there. 
+
+
+
 
 
 
