@@ -163,8 +163,26 @@ Coupling of lines are often preferable because of the positive effect on track a
 
 
 
+** Design dilemma 4**
 
+The last dilemma we discuss is the choice between direct train services (without transfer) or high frequencies. In professional terms: alternating or stretched. See figure below.
 
+![dilemma4](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/76e5b245fe02913189b30f3bc1606459/asset-v1:DelftX+RAIL101x+3T2018+type@asset+block/supply_design_dilemma_4.png)
+
+The main considerations are:
+
+| alternating |  stretched |
+| ----------------- | ------------------ | 
+| fewer transferring travelers | higher frequency on essential connection |
+|  | greater robustness in operation |
+
+When the connections are all more or less equal, we usually choose alternating. This means that travelers have fewer transfers, which is preferable. When one connection is distinctly important, we usually choose stretched lines.
+
+The red and blue lines in the figures go from one track to two tracks. This means a high frequency is possible for the busiest connections. Travelers going off the main line will have to transfer, but the number of travelers doing so is limited. Therefore, no direct line is necessary, which frees up the track for the main lines. 
+
+---
+
+#### Quiz: Timetable Design
 
 
 
