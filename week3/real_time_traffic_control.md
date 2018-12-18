@@ -163,7 +163,7 @@ Coupling of lines are often preferable because of the positive effect on track a
 
 
 
-** Design dilemma 4**
+**Design dilemma 4**
 
 The last dilemma we discuss is the choice between direct train services (without transfer) or high frequencies. In professional terms: alternating or stretched. See figure below.
 
@@ -184,7 +184,14 @@ The red and blue lines in the figures go from one track to two tracks. This mean
 
 #### Quiz: Timetable Design
 
+You have seen what a supply design looks like and what kind of dilemmas arise when designing one. The second step in the design process is designing a timetable for the determined supply design. As explained previously, the software places your supply design in time. The result is a time-distance diagram of your supply design. This is the timetable. The following video explains what the time-distance diagram represents.
 
+https://youtu.be/FS4UAPoFHeM
+
+
+---
+
+#### Governance
 
 
 
