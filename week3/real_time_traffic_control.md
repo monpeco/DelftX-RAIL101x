@@ -193,6 +193,10 @@ https://youtu.be/FS4UAPoFHeM
 
 #### Governance
 
+A very large determining factor in making supply designs and timetables is the governance: the juridical and financial relations in the rail system. Those relations differ per train type. The four main distinguishable train services are international, national, regional, and freight trains.
+
+Different train services are run by different train operating companies. These train operating companies make their own supply designs. Some companies have to make concessions. Their supply design has to meet certain requirements. There are also differences in finances. Some companies get subsidies, while others have to pay concession fees. The table below gives a quick overview of these aspects for the four main train services.
+
 
 
 
