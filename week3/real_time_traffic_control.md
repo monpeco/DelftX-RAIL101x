@@ -193,18 +193,15 @@ https://youtu.be/FS4UAPoFHeM
 
 #### Governance
 
+A very large determining factor in making supply designs and timetables is the governance: the juridical and financial relations in the rail system. Those relations differ per train type. The four main distinguishable train services are international, national, regional, and freight trains. | Different train services are run by different train operating companies. These train operating companies make their own supply designs. Some companies have to make concessions. Their supply design has to meet certain requirements. There are also differences in finances. Some companies get subsidies, while others have to pay concession fees. The table below gives a quick overview of these aspects for the four main train services. 
+
+
 | Kind of train service | Train operating companies | Concession | Costs train operating companies | Subsidy to train operating companies | 
 | --------------------- | ------------------------- | ---------- | ------------------------------- | ------------------------------------ | 
-| A very large determining factor in making supply designs and timetables is the governance: the juridical and financial relations in the rail system. Those relations differ per train type. The four main distinguishable train services are international, national, regional, and freight trains. | Different train services are run by different train operating companies. These train operating companies make their own supply designs. Some companies have to make concessions. Their supply design has to meet certain requirements. There are also differences in finances. Some companies get subsidies, while others have to pay concession fees. The table below gives a quick overview of these aspects for the four main train services. | International | National train operating companies, in cooperation with companies from other countries | None, free market | None | None | 
-
-
-
-
-
-
-
-
-
+| International | National train operating companies, in cooperation with companies from other countries | None, free market | None | None | 
+| National | National train operating companies | HRN-concession - (Head Rail Network) with the Department of Transport, requirements for the main features | Concession fee (to the Department of Transport), | dividend (to the Department of Finance) | Limited, only for additional train services by regional authorities |
+| Regional | Regional train operating companies | Regional concessions with regional authorities, | detailed requirements | none | Quite large subsidies from the regional authorities |
+| Freight | Freight carriers | None, free market | None | None |
 
 
 
