@@ -204,6 +204,18 @@ A very large determining factor in making supply designs and timetables is the g
 | Freight | Freight carriers | None, free market | None | None |
 
 
+Notice the differences in concessions:
+
+1. National train operating companies can make their own supply design with only some restrictions. They get requirements for the main features on the Head Rail Network (NS).
+1. The supply design of regional networks is highly prescribed by the regional authorities. There are detailed requirements in the regional concessions.
+1. There are no concessions for international trains and freight trains.
+
+And notice the differences in finance:
+
+1. National train operating companies have to pay for the concession of the Head Rail Network.
+1. Regional train operating companies get subsidies from the government.
+1. International trains and freight trains are free markets.
+
 
 
 
