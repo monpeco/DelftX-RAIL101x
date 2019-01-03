@@ -238,6 +238,16 @@ If the Core Rail Network is given detailed requirements by the government, then 
 
 #### Disruptions
 
+Disruptions occur with varying degrees of impact, demanding an adjustable timetable. This is real-time traffic management. The main goal of real-time traffic management is to always have an executable and safe plan and to have an operational perspective for the traveler. In the next section, we will have a look how to take care of these situations using the bathtub model and predefined solutions.
+
+Who are actively involved when handling a disruption, depends on the type of the situation. The classification of these situations is based on the scale of the impact and how much the alternative plan will deviate from the published plan. There are minor, moderate, severe and catastrophic situations. The following video will give an idea of what these types of disruptions mean and who are involved when they occur. 
+
+https://youtu.be/S4H1wDYBkik
+
+---
+
+#### Adjustment Model
+
 
 
 
