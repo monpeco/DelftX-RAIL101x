@@ -217,7 +217,26 @@ And notice the differences in finance:
 1. International trains and freight trains are free markets.
 
 
+#### Core Rail vs Regional
 
+When we look at the previous table we see that there is a large difference between national and regional trains. This is because of the distinction in the Core Rail Network and regional networks.
+
+Look at the map below. Every train operating company must have an admittance agreement with the rail infrastructure manager and they have to pay user fees to the rail infrastructure manager for the use of the railway network. The rail infrastructure manager has a management concession with the Department of Transport and gets a management fee. Most of the smaller train operating companies are in regional areas. In this case, the Core Rail Network is run by only one company (blue) and covers the densely populated area and main connections inland.
+
+
+Core Rail Network is run by companies that create supply designs according to the travel market. Most trains travel where most travelers are. This creates the most profitable operation. The government gets concession fees and dividend from the train operating companies but is not in the position to give strict requirements for the supply design.
+
+The regional networks are often not run by the same companies as the Core Rail Network. These companies want to have a profitable operation and that is rarely possible in regional areas due to the small number of travelers. The companies are more likely to lose money in these areas. So regional networks are only profitable when subsidized. The government pays the train operating companies to make sure trains travel through these more remote areas with a regular frequency in order to accommodate the travelers. Since the government invests in these companies they also give detailed requirements for the supply design.
+
+This division between the two networks is a logical construction and occurs in most countries. This becomes clear when considering what happens when the complete network is managed by one system.
+
+If the regional networks are also run by the same companies that take care of the Core Rail Network, then the supply design in these areas would be created according to the travel market. This means that trains will travel at much lower frequencies or not at all. There will also be fewer stations. This is the only way that the operation remains profitable. The government does not have to subsidize anymore but the network will become very inconvenient for travelers living outside of the main urban areas.
+
+If the Core Rail Network is given detailed requirements by the government, then the main focus would not be profit but traveler satisfaction. This means higher frequencies of trains and more stations. The result is that operations become less profitable. Therefore, the government will receive fewer concession fees and dividend from the train operating companies or would even have to pay a subsidy to the train operating company. Doing this for an entire country would make the train network far too expensive for the government.
+
+---
+
+#### Disruptions
 
 
 
