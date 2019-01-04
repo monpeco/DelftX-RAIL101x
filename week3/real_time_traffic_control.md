@@ -258,7 +258,23 @@ The figure below shows the steps in a model. The blue line indicates the level o
 
 #### Pre-defined Solutions
 
+Disruptions are taken care of by changing the published plan to an alternative plan, which performs at a lower level but is still executable and safe. In order to respond in real time, the alternative plan needs to be drafted quickly. This is done by using pre-defined solutions.
 
+Pre-defined solutions are fully worked-out timetables that can replace part of a published plan. They are time and place specific and the preferences of the train operating company are taken into account in these solutions.
+
+Pre-defined solutions are made for disruptions between two buffers.
+
+Buffers are locations along the track where sufficient logistical possibilities are offered, these are often stations. The track between the two buffers can be completely blocked or only partially.
+
+Pre-defined solutions are made for every single possibility. Applying pre-defined solutions means that an alternative plan can be drafted very quickly, even in complex situations.
+
+If something occurs, where no trains can run between Schiphol and Hoofddorp (second figure), it has an effect on many other stations. Stations connecting main lines will become buffer zones for trains that cannot continue. In the third figure, you can see how trains have to be redirected (simplified), showing the impact is rather large since Schiphol is an important station with many direct connections across the country. This is done by following the scenario of a specific pre-defined solution (in this case to account for no trains between Schiphol and Hoofddorp).
+
+Large deviations are required and many trains are forced to turn around. This scenario impacts a large region and by having pre-defined solutions an alternative plan is made quickly even for this kind of complex scenario.
+
+---
+
+#### Schiphol Case: Introduction
 
 
 
