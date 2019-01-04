@@ -276,7 +276,15 @@ Large deviations are required and many trains are forced to turn around. This sc
 
 #### Schiphol Case: Introduction
 
+Schiphol is a vital station within the Dutch railway network. If a problem occurs it can have effects all over the country. Later this week, we will introduce the Schiphol case in which you will become familiar with the many trains stopping at the six available platforms (up to 50 trains per hour during the day). Since the station is located underground and has a limit of four tracks 'sticking out' on both sides, it often is referred to as a shuffleboard.
 
+This means that small things (like a broken signal, copper theft, weather condition or a fire alarm) can cause major disruptions. Different causes of delay will be further discussed in week 4, but in the assignment case this week, we will focus on the specific situation of Schiphol.
+
+Below an overview of all the different trains coming into the station at a Wednesday morning between 9:30 and 10:30 AM.
+
+---
+
+#### Discussion
 
 
 
