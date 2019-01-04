@@ -248,7 +248,15 @@ https://youtu.be/S4H1wDYBkik
 
 #### Adjustment Model
 
+When a disruption occurs, the published plan can no longer be carried out. This means that an alternative plan needs to be created. This alternative plan will perform at a lower level than the published plan but is executable and safe. The alternative plan is executed, as long as the disruption is present. Once the disruption is cleared, the published plan can be reverted to again. A startup plan is created, which determines how the alternative plan is brought back to the level of the published plan.
 
+For minor and moderate disruptions, this is done in one step. For severe and catastrophic disruptions, the difference between the two plans is too large. Therefore, a second alternative plan, performing on a level between the alternative and published plan, is executed to ease the transition.
+
+The figure below shows the steps in a model. The blue line indicates the level of the plan. The published plan is the desired level of operation. After the disruption, the blue line goes down to the alternative plan. Once the disruption is cleared the plan is brought back to the originally published plan. The green line illustrates the execution. When a disruption occurs, emergency measures are taken to keep the execution safe. Once the alternative plan is created, the execution is performed according to this plan. After the disruption changes in execution are made to fit the new plan. The red line illustrates the measures taken during the disruption. First, the disruption is reported and alarmed. The calamity is isolated and safety measures are taken. While the disruption is being cleared, the alternative plan is executed.
+
+---
+
+#### Pre-defined Solutions
 
 
 
