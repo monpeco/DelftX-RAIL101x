@@ -310,6 +310,26 @@ Requirements for the asset layer: make sure that the assets function on the esta
 #### Theory vs Practice
 
 
+A differentiation can be made between theoretical and practical infracapacity.
+
+The theoretical capacity of a track can be defined as the number of trains that can be processed by a given infrastructure within a certain timeframe. This is determined by the travel time of trains and follow-up time between trains, which depend on the layout of the civil infrastructure, railway electric traction, safety margins and placement of security systems and block configurations.
+
+The theoretical capacity cannot be obtained in reality due to limits within the actual situation, based on for example the availability, the types and the order of trains. In addition, other factors have to be taken into account like the behavior of the driver, control systems and a buffer in the system for stable execution of the timetabling.
+
+The components described above relate to the activities of the train operating company and partly to the traffic management systems. These systems affect how much of the theoretical capacity can be achieved during the execution of the timetable.
+
+Balancing the use of capacity
+The balance between intensity and quality is an important steering parameter for the utilization of infrastructure. Intensity refers to the maximum amount of train services that can be delivered per hour. Quality refers to three main aspects: differentiation, average speed and the stability. Differentiation means the number of levels of scale that are used. A large differentiation means that there are many different trains traveling at different speeds on the same track. A low differentiation means that there is only one type of train on the tracks. Average speed relates to the flow of the trains. The stability refers to the sensitivity to disturbances and can be expressed as the speed in which a disruption naturally dampens.
+
+The utilization of infrastructure is a consideration between the intensity and the three quality aspects. The result of this process can be seen as a balance between these four utilization aspects. The balance between the four aspects can be illustrated by a diagram. The four different aspects form the axes. The utilization is given by a point on each axis. The capacity is represented by drawing a line through the points on the four axes. The resulting shape represents the available capacity. Because the utilization aspects are in balance, changing one point on an axis also affect one or more points on the other axes. The maximum theoretical intensity occurs when the three quality aspects are all zero.
+
+The figure below illustrates a diagram. For a train system with multiple levels of scale, the differentiation is large. Due to the faster trains on this network, a large average speed is desired. This leads to relatively low intensities. For instance, 4 to 6 train services per hour. A train system with one level of scale has low differentiation. The required average speed is relatively low so the intensity can become high, as much as 40 train services per hour.
+
+Negative effects on capacity can be limited by recognizing important factors, which after improving will have relatively large positive outcomes. But eventually the network as a whole should be analyzed and bottlenecks always are leading the traffic flow. Directing bottlenecks is the first step, but they can be difficult to deal with, since widening the infrastructure is not always an option. Especially bridges and tunnels can be a very difficult problem when the design and construction do not allow for expansion. Apart from a new or second civil structure, the challenge often lies in smart and well designed timetabling.
+
+---
+
+#### High Frequent Routes
 
 
 
