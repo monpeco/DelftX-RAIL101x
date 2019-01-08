@@ -286,6 +286,28 @@ Below an overview of all the different trains coming into the station at a Wedne
 
 #### Discussion
 
+---
+
+#### Requirements
+
+This section describes which requirements for (optimal) use of infrastructure can be derived from both the timetabling process and real-time traffic management. And, the other way round, describes how infracapacity is a constraint for timetable development and the possibilities for real-time rescheduling.
+
+**Long-term scenarios: Requirements for infracapacity**
+The goal of infracapacity is to make sure that the prescribed timetable is executable. The timetable is based on the requirements for the desired passenger flows. This gives a certain train frequency on different parts of the railway network. The infrastructure should be able to handle the required amount of trains.
+
+Real-time traffic management (RTTM) ensures that a certain amount of trains remain operational during (unexpected) events. This is mostly done by applying predefined solutions. The disruptions mean that a part of the network is closed off and trains need to be able to divert other tracks/routes. The rail infrastructure needs to enable this when necessary, for instance by adding switches and buffer stations.
+
+**Short term scenarios: Requirements from infracapacity**
+The previous section shows timetabling and RTTM giving requirements to infra capacity. This shows where infrastructure should be improved or adjusted. This is only done for long-term scenarios as changing the available infrastructure takes time and is often expensive so only suitable for large improvements in the system.
+
+Another point of view is to see infracapacity as the starting point for timetabling and RTTM. There is a certain infrastructure available to use and timetabling and RTTM are designed based on this availability. This way of thinking is often applied to short-term designs.
+
+Requirements for timetable / RTTM: the available infrastructure is given. Use this to design your plan.
+Requirements for the asset layer: make sure that the assets function on the established infrastructure network.
+
+---
+
+#### Theory vs Practice
 
 
 
